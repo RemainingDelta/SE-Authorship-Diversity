@@ -42,6 +42,18 @@ make ci                # ruff lint + format check + pytest (same as GitHub Actio
 
 Other targets: `make lint`, `make fix` (auto-format), `make test`, `make clean`, `make help`.
 
+### DBLP data (one-time, only needed to re-run ingestion)
+
+The filtered DBLP records are committed at `data/bronze/dblp/icse_ecsa_icsa_filtered.json`, so most work doesn't need this. To regenerate them, download DBLP's bulk dump into the repo root (both files are gitignored). Don't use `curl -i`, because it writes HTTP headers into the file and corrupts it.
+
+```bash
+curl -L -o dblp.xml.gz https://dblp.org/xml/dblp.xml.gz   # ~1.1 GB
+curl -L -o dblp.dtd https://dblp.org/xml/dblp.dtd
+PYTHONPATH=src python -m ingest.dblp_dump                # writes data/bronze/dblp/icse_ecsa_icsa_filtered.json
+```
+
+DBLP's search API and HTML pages are behind an anti-bot check that blocks plain HTTP clients, but the bulk dump downloads fine with `curl`. DBLP rebuilds the dump regularly, so record counts can drift slightly between downloads.
+
 ## Shared config decisions
 
 All of these live in `src/shared/config.py`, and the reasoning is written out in comments there.

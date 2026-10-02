@@ -1,0 +1,5 @@
+<!-- Minimal stand-in for dblp.dtd: only the named entities the fixture uses. -->
+<!ENTITY Oacute "&#211;">
+<!ENTITY eacute "&#233;">
+<!ENTITY iacute "&#237;">
+<!ENTITY uuml   "&#252;">
