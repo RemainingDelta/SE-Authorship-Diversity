@@ -42,6 +42,16 @@ ICSA_LINEAGE = {
     "ICSA": range(2017, YEAR_END + 1),
 }
 
+# A paper is main track when its DBLP crossref (the proceedings volume it
+# belongs to) is exactly conf/{venue}/{year}. Anything after the year is a
+# satellite volume: c = companion, w = workshops, seip, nier, seet, or a
+# workshop acronym (ast, chase, ...).
+# ICSE 2010 and 2015 were split into -1 and -2. Volume 1 is the research
+# track, and volume 2 is mostly companion material, so only -1 is kept.
+# Known limitation: ICSE 2011-2013 published every track in a single volume,
+# so those years can't be separated by crossref (see docs/LIMITATIONS.md).
+MAIN_TRACK_CROSSREF = r"^conf/(icse|ecsa|icsa|wicsa)/(\d{4})(-1)?$"
+
 # ── Regions ───────────────────────────────────────────────────────────────────
 
 # Copied from geo_data/src/analysis/add_regions.py (ISO 3166-1 alpha-2 codes).
