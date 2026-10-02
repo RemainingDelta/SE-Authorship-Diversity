@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE dblp SYSTEM "this/path/does/not/exist/dblp.dtd">
+<dblp>
+<inproceedings key="conf/icse/OCinneide20" mdate="2020-06-01">
+<author>Mel &Oacute; Cinn&eacute;ide</author>
+<author>Jos&eacute; Garc&iacute;a</author>
+<author>Wei Zhang 0001</author>
+<title>Testing <i>quickly</i> at scale.</title>
+<year>2020</year>
+<booktitle>ICSE</booktitle>
+<ee>https://ieeexplore.ieee.org/document/123</ee>
+<ee>https://doi.org/10.1145/3377811.3380001</ee>
+<crossref>conf/icse/2020</crossref>
+</inproceedings>
+<inproceedings key="conf/icse/Smith20c" mdate="2020-06-01">
+<author>Alice Smith</author>
+<title>A companion paper.</title>
+<year>2020</year>
+<booktitle>ICSE (Companion Volume)</booktitle>
+<ee>https://doi.org/10.1145/3377812.3382001</ee>
+<crossref>conf/icse/2020c</crossref>
+</inproceedings>
+<proceedings key="conf/icse/2020" mdate="2020-06-01">
+<editor>Gregg Rothermel</editor>
+<title>ICSE '20: 42nd International Conference on Software Engineering</title>
+<year>2020</year>
+<booktitle>ICSE</booktitle>
+<ee>https://doi.org/10.1145/3377811</ee>
+</proceedings>
+<inproceedings key="conf/wicsa/Muller09" mdate="2009-09-01">
+<author>Hans M&uuml;ller</author>
+<title>Joint-year architecture paper.</title>
+<year>2009</year>
+<booktitle>WICSA/ECSA</booktitle>
+<crossref>conf/wicsa/2009</crossref>
+</inproceedings>
+<inproceedings key="conf/ecsa/Rossi13" mdate="2013-07-01">
+<author>Maria Rossi</author>
+<author>Luca Bianchi</author>
+<title>An ECSA paper.</title>
+<year>2013</year>
+<booktitle>ECSA</booktitle>
+<ee>http://dx.doi.org/10.1007/978-3-642-39031-9_1</ee>
+<crossref>conf/ecsa/2013</crossref>
+</inproceedings>
+<inproceedings key="conf/icsa/Kim17" mdate="2017-04-01">
+<author>Ji-woo Kim</author>
+<title>An ICSA paper.</title>
+<year>2017</year>
+<booktitle>ICSA</booktitle>
+<ee>https://doi.org/10.1109/ICSA.2017.24</ee>
+<crossref>conf/icsa/2017</crossref>
+</inproceedings>
+<inproceedings key="conf/icse/Early06" mdate="2006-05-01">
+<author>Too Early</author>
+<title>Before the year range.</title>
+<year>2006</year>
+<booktitle>ICSE</booktitle>
+<crossref>conf/icse/2006</crossref>
+</inproceedings>
+<inproceedings key="conf/icse/Late26" mdate="2026-05-01">
+<author>Too Late</author>
+<title>After the year range.</title>
+<year>2026</year>
+<booktitle>ICSE</booktitle>
+<crossref>conf/icse/2026</crossref>
+</inproceedings>
+<inproceedings key="conf/sigsoft/Other20" mdate="2020-11-01">
+<author>Other Venue</author>
+<title>Not a target venue.</title>
+<year>2020</year>
+<booktitle>ESEC/FSE</booktitle>
+<crossref>conf/sigsoft/2020</crossref>
+</inproceedings>
+<article key="journals/tse/Journal20" mdate="2020-01-01">
+<author>Journal Author</author>
+<title>Not a conference record.</title>
+<year>2020</year>
+<journal>IEEE Trans. Software Eng.</journal>
+</article>
+</dblp>
