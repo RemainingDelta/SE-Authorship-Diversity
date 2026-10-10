@@ -1,0 +1,41 @@
+{
+  "id": "https://openalex.org/W175731104",
+  "doi": "https://doi.org/10.1007/978-3-642-39031-9_31",
+  "title": "Toward Industry Friendly Software Architecture Evaluation",
+  "publication_year": 2013,
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "display_name": "Zhao Li"
+      },
+      "raw_author_name": "Zhao Li",
+      "institutions": []
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "display_name": "Jiang Zheng"
+      },
+      "raw_author_name": "Jiang Zheng",
+      "institutions": []
+    }
+  ],
+  "primary_topic": {
+    "id": "https://openalex.org/T10639",
+    "display_name": "Advanced Software Engineering Methodologies",
+    "score": 0.9926999807357788,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1702",
+      "display_name": "Artificial Intelligence"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/17",
+      "display_name": "Computer Science"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  }
+}
