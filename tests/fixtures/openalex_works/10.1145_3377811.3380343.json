@@ -1,0 +1,51 @@
+{
+  "id": "https://openalex.org/W3090756599",
+  "doi": "https://doi.org/10.1145/3377811.3380343",
+  "title": "Tailoring programs for static analysis via program transformation",
+  "publication_year": 2020,
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "display_name": "Rijnard van Tonder"
+      },
+      "raw_author_name": "Rijnard van Tonder",
+      "institutions": [
+        {
+          "display_name": "Carnegie Mellon University",
+          "country_code": "US"
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "display_name": "Claire Le Goues"
+      },
+      "raw_author_name": "Claire Le Goues",
+      "institutions": [
+        {
+          "display_name": "Carnegie Mellon University",
+          "country_code": "US"
+        }
+      ]
+    }
+  ],
+  "primary_topic": {
+    "id": "https://openalex.org/T10743",
+    "display_name": "Software Testing and Debugging Techniques",
+    "score": 0.5220000147819519,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1712",
+      "display_name": "Software"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/17",
+      "display_name": "Computer Science"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  }
+}

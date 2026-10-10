@@ -1,0 +1,68 @@
+{
+  "id": "https://openalex.org/W2105400090",
+  "doi": "https://doi.org/10.1145/1806799.1806855",
+  "title": "Linking e-mails and source code artifacts",
+  "publication_year": 2010,
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "display_name": "Alberto Bacchelli"
+      },
+      "raw_author_name": "Alberto Bacchelli",
+      "institutions": [
+        {
+          "display_name": "Università della Svizzera italiana",
+          "country_code": "CH"
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "display_name": "Michele Lanza"
+      },
+      "raw_author_name": "Michele Lanza",
+      "institutions": [
+        {
+          "display_name": "Università della Svizzera italiana",
+          "country_code": "CH"
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "display_name": "Romain Robbes"
+      },
+      "raw_author_name": "Romain Robbes",
+      "institutions": [
+        {
+          "display_name": "Università della Svizzera italiana",
+          "country_code": "CH"
+        },
+        {
+          "display_name": "University of Chile",
+          "country_code": "CL"
+        }
+      ]
+    }
+  ],
+  "primary_topic": {
+    "id": "https://openalex.org/T10260",
+    "display_name": "Software Engineering Research",
+    "score": 0.9945999979972839,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1710",
+      "display_name": "Information Systems"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/17",
+      "display_name": "Computer Science"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  }
+}
