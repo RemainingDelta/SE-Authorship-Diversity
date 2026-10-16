@@ -1,0 +1,52 @@
+{
+  "Rijnard van Tonder": {
+    "gender": null,
+    "probability": 0.0,
+    "count": 0
+  },
+  "Claire Le Goues": {
+    "gender": "female",
+    "probability": 1.0,
+    "count": 341669
+  },
+  "Alberto Bacchelli": {
+    "gender": "male",
+    "probability": 1.0,
+    "count": 707089
+  },
+  "Michele Lanza": {
+    "gender": "female",
+    "probability": 0.54,
+    "count": 544350
+  },
+  "Romain Robbes": {
+    "gender": "male",
+    "probability": 0.99,
+    "count": 119253
+  },
+  "Patricia Lago": {
+    "gender": "female",
+    "probability": 1.0,
+    "count": 1
+  },
+  "Zhao Li": {
+    "gender": "female",
+    "probability": 0.5,
+    "count": 4
+  },
+  "Jiang Zheng": {
+    "gender": "male",
+    "probability": 1.0,
+    "count": 2
+  },
+  "Colin Paterson": {
+    "gender": "male",
+    "probability": 1.0,
+    "count": 178263
+  },
+  "Radu Calinescu": {
+    "gender": "male",
+    "probability": 0.94,
+    "count": 31788
+  }
+}

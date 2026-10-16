@@ -1,0 +1,51 @@
+{
+  "id": "https://openalex.org/W2059252169",
+  "doi": "https://doi.org/10.1109/wicsa.2009.5290822",
+  "title": "On service-oriented architectural concerns and viewpoints",
+  "publication_year": 2009,
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "display_name": "Patricia Lago"
+      },
+      "raw_author_name": "Patricia Lago",
+      "institutions": [
+        {
+          "display_name": "Vrije Universiteit Amsterdam",
+          "country_code": "NL"
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "display_name": "Qing Gu"
+      },
+      "raw_author_name": "Qing Gu",
+      "institutions": [
+        {
+          "display_name": "Vrije Universiteit Amsterdam",
+          "country_code": "NL"
+        }
+      ]
+    }
+  ],
+  "primary_topic": {
+    "id": "https://openalex.org/T10639",
+    "display_name": "Advanced Software Engineering Methodologies",
+    "score": 0.5400000214576721,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1702",
+      "display_name": "Artificial Intelligence"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/17",
+      "display_name": "Computer Science"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  }
+}
