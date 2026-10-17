@@ -97,7 +97,7 @@ All in `tests/fixtures/`, shared by every ticket:
 | File | What it holds |
 |---|---|
 | `dblp_records.json` | 10 records in the same shape as `data/bronze/dblp/icse_ecsa_icsa_filtered.json`: ICSE 2020 main track, ICSE 2020 companion (`2020c`), ICSE 2010 volume 1 (`2010-1`, kept) and volume 2 (`2010-2`, excluded), WICSA 2009 (joint with ECSA), ECSA 2013, ICSA 2017 main track with no DOI, ECSA 2021 companion with no DOI, the ICSE 2020 `proceedings` record, and an ICSA 2024 companion paper |
-| `openalex_works/` | 4 OpenAlex works, one file per DOI (`/` replaced by `_`), trimmed to the fields silver uses: a normal paper (ICSE 2020), an author with two institutions (ICSE 2010, Romain Robbes), authors with no institution (ECSA 2013), and an author order that differs from DBLP (WICSA 2009) |
+| `openalex_works/` | 4 OpenAlex works, one file per DOI, named the same way as the bronze cache in `src/ingest/openalex_fetch.py` (lowercased DOI, percent-encoded, e.g. `10.1145%2F3377811.3380343.json`), trimmed to the fields silver uses: a normal paper (ICSE 2020), an author with two institutions (ICSE 2010, Romain Robbes), authors with no institution (ECSA 2013), and an author order that differs from DBLP (WICSA 2009) |
 | `gender_lookup_sample.json` | 10 entries copied from the real Genderize cache (`{name: {gender, probability, count}}`). It includes a `gender: null` entry (Rijnard van Tonder) and two below 0.70 (Michele Lanza, Zhao Li). Qing Gu is left out on purpose, to cover a name that isn't in the cache |
 | `silver_rows.json` | The expected silver output for the fixtures above, worked out by hand and ordered by `doi` then `author_position` (no-DOI paper last) |
 
