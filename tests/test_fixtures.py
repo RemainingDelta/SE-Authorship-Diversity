@@ -8,6 +8,7 @@ those inputs, so the ingest, gender and geo tickets can all build against it.
 import json
 import pathlib
 import re
+from urllib.parse import unquote
 
 import pytest
 from ingest.main_track import is_main_track
@@ -67,12 +68,14 @@ def gender_lookup():
 
 @pytest.fixture(scope="module")
 def openalex():
-    """OpenAlex works keyed by DOI; file names are the DOI with / as _."""
+    """OpenAlex works keyed by lowercased DOI.
+
+    File names follow the bronze cache (ingest.openalex_fetch): the lowercased
+    DOI, percent-encoded so / never makes a subdirectory.
+    """
     works = {}
     for path in sorted((FIXTURES / "openalex_works").glob("*.json")):
-        works[path.stem.replace("_", "/", 1)] = json.loads(
-            path.read_text(encoding="utf-8")
-        )
+        works[unquote(path.stem)] = json.loads(path.read_text(encoding="utf-8"))
     return works
 
 
@@ -227,7 +230,7 @@ def test_silver_papers_are_the_main_track_records(silver, main_track):
 
 def test_silver_matches_openalex(silver, openalex):
     for title, rows in _papers(silver).items():
-        work = openalex.get(rows[0]["doi"])
+        work = openalex.get((rows[0]["doi"] or "").lower())
         if work is None:
             # No DOI or no OpenAlex match: nothing to take affiliations from.
             for row in rows:
@@ -273,7 +276,7 @@ def test_dblp_fixture_coverage(dblp):
 
 def test_openalex_fixture_coverage(openalex, dblp):
     assert len(openalex) == 4
-    assert set(openalex) <= {r["doi"] for r in dblp}
+    assert set(openalex) <= {r["doi"].lower() for r in dblp if r["doi"]}
     authorships = [a for w in openalex.values() for a in w["authorships"]]
     assert any(len(a["institutions"]) > 1 for a in authorships)
     assert any(len(a["institutions"]) == 0 for a in authorships)
