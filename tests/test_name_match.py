@@ -11,6 +11,8 @@ from shared.name_match import names_match
     ("José García", "Jose Garcia"),
     # Hyphenated vs. spaced first name
     ("Anne-Marie Li", "Anne Marie Li"),
+    # DBLP number for people who share a name
+    ("Wei Zhang 0001", "Wei Zhang"),
 ])
 def test_names_match(dblp_name, openalex_name):
     assert names_match(dblp_name, openalex_name)

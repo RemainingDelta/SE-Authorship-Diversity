@@ -2,7 +2,8 @@
 
 Used by the silver builder to flag author-position mismatches. Surnames must
 be equal, and first names must be equal or one must be the other's initial.
-Case, accents, middle initials, and hyphens are ignored.
+Case, accents, middle initials, and hyphens are ignored, as is the number
+DBLP adds to tell apart people with the same name ("Wei Zhang 0001").
 """
 
 import re
@@ -10,8 +11,12 @@ import unicodedata
 
 _SEPARATORS = re.compile(r"[-.]")
 
+# DBLP numbers people who share a name: "Wei Zhang 0001". OpenAlex does not.
+_DBLP_SUFFIX = re.compile(r"\s+\d{4}$")
+
 
 def _tokens(name: str) -> list[str]:
+    name = _DBLP_SUFFIX.sub("", name.strip())
     name = unicodedata.normalize("NFKD", name)
     name = "".join(c for c in name if not unicodedata.combining(c))
     return _SEPARATORS.sub(" ", name.lower()).split()
