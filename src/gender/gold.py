@@ -1,27 +1,29 @@
-"""Aggregate silver authorship rows into yearly gender statistics."""
+"""Aggregate silver authorship rows into yearly gender statistics.
+
+PYTHONPATH=src python -m gender.gold <silver_rows.json> [out.json]
+"""
 
 import json
 import pathlib
+import sys
 
-GENDER_LABELS = (
-    "female-presenting",
-    "male-presenting",
-    "unclassified",
-    "unknown",
-)
-CLASSIFIED_LABELS = ("female-presenting", "male-presenting")
+# TODO: move to shared.config once it holds the gender labels (see docs/SCHEMA.md).
+GENDER_LABELS = ["female-presenting", "male-presenting", "unclassified", "unknown"]
+# Only these go into percentage denominators.
+CLASSIFIED_GENDER_LABELS = ["female-presenting", "male-presenting"]
 ROOT = pathlib.Path(__file__).parents[2]
 OUTPUT_PATH = ROOT / "data" / "gold" / "gender_yearly.json"
+PCT_DECIMALS = 2
 
 
 def gender_pct(counts):
     """Return female/male percentages, excluding unclassified and unknown."""
-    classified_total = sum(counts.get(label, 0) for label in CLASSIFIED_LABELS)
+    classified_total = sum(counts.get(label, 0) for label in CLASSIFIED_GENDER_LABELS)
     if classified_total == 0:
-        return {label: None for label in CLASSIFIED_LABELS}
+        return {label: None for label in CLASSIFIED_GENDER_LABELS}
     return {
-        label: counts.get(label, 0) / classified_total * 100
-        for label in CLASSIFIED_LABELS
+        label: round(counts.get(label, 0) / classified_total * 100, PCT_DECIMALS)
+        for label in CLASSIFIED_GENDER_LABELS
     }
 
 
@@ -69,3 +71,17 @@ def write_gender_yearly(rows, output_path=OUTPUT_PATH):
         json.dumps(gender_counts(rows), indent=2) + "\n",
         encoding="utf-8",
     )
+
+
+def main(argv=None):
+    args = sys.argv[1:] if argv is None else argv
+    if not 1 <= len(args) <= 2:
+        sys.exit("usage: python -m gender.gold <silver_rows.json> [out.json]")
+    rows = json.loads(pathlib.Path(args[0]).read_text(encoding="utf-8"))
+    output_path = pathlib.Path(args[1]) if len(args) == 2 else OUTPUT_PATH
+    write_gender_yearly(rows, output_path)
+    print(f"Wrote {output_path} from {len(rows):,} silver rows")
+
+
+if __name__ == "__main__":
+    main()

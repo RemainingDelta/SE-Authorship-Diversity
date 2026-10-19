@@ -1,7 +1,7 @@
 import json
 import pathlib
 
-from gender.gold import gender_counts, gender_pct, write_gender_yearly
+from gender.gold import gender_counts, gender_pct, main, write_gender_yearly
 
 FIXTURES = pathlib.Path(__file__).parent / "fixtures"
 
@@ -27,6 +27,36 @@ def test_unclassified_and_unknown_do_not_change_female_percentage():
     assert gender_pct(with_unclassified_and_unknown) == {
         "female-presenting": 50.0,
         "male-presenting": 50.0,
+    }
+
+
+def _percentages(result):
+    return {
+        (g["venue"], g["year"]): (
+            g["all_authors"]["percentages"],
+            g["first_authors"]["percentages"],
+        )
+        for g in result
+    }
+
+
+def test_adding_unclassified_and_unknown_rows_does_not_change_percentages():
+    rows = _silver_rows()
+    # Extra authors on every paper, including first authors, so both the
+    # all-author and first-author denominators are exercised.
+    extra = [
+        {**row, "gender_label": label}
+        for row in rows
+        for label in ("unclassified", "unknown")
+    ]
+
+    assert _percentages(gender_counts(rows + extra)) == _percentages(gender_counts(rows))
+
+
+def test_percentages_are_rounded():
+    assert gender_pct({"female-presenting": 1, "male-presenting": 2}) == {
+        "female-presenting": 33.33,
+        "male-presenting": 66.67,
     }
 
 
@@ -75,6 +105,16 @@ def test_write_gender_yearly_serializes_aggregated_rows(tmp_path):
     output_path = tmp_path / "gender_yearly.json"
 
     write_gender_yearly(_silver_rows(), output_path)
+
+    assert json.loads(output_path.read_text(encoding="utf-8")) == gender_counts(
+        _silver_rows()
+    )
+
+
+def test_main_writes_gold_from_silver_file(tmp_path):
+    output_path = tmp_path / "gender_yearly.json"
+
+    main([str(FIXTURES / "silver_rows.json"), str(output_path)])
 
     assert json.loads(output_path.read_text(encoding="utf-8")) == gender_counts(
         _silver_rows()
