@@ -39,7 +39,7 @@ def test_main_track_kept(crossref):
     "conf/icse/2020seip",
     "conf/icse/2020nier",
     "conf/icse/2020ast",
-    "conf/msr/2020c",
+    "conf/msr/2020c",  # hypothetical: DBLP has no MSR satellite volumes today
     # Not a target venue
     "conf/sigsoft/2020",
     # No crossref at all
