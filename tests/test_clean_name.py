@@ -18,6 +18,5 @@ from gender.names import clean_name
     # Multiple suffixes — both stripped
     ("Jane Doe 2020 2021", "Jane Doe"),
 ])
-
 def test_clean_name(input_name, expected):
     assert clean_name(input_name) == expected

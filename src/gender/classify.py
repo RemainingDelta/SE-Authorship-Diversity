@@ -1,6 +1,6 @@
-from shared.config import GENDER_CONFIDENCE_THRESHOLD
+"""Classify gender based on GENDER_CONFIDENCE_THRESHOLD."""
 
-"""Classify gender based on GENDER_CONFIDENCE_THRESHOLD"""
+from shared.config import GENDER_CONFIDENCE_THRESHOLD
 
 
 def classify_gender(gender, probability):

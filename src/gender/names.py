@@ -1,8 +1,6 @@
-import re
+"""Clean names by removing 4-digit year disambiguators and HTML artifacts."""
 
-"""
-Clean names by removing 4-digit year disambiguators and HTML artifacts
-"""
+import re
 
 
 def clean_name(name):
