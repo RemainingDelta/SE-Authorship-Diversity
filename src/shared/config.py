@@ -14,6 +14,8 @@ YEAR_START = 2007
 YEAR_END = 2025  # inclusive
 YEARS = range(YEAR_START, YEAR_END + 1)
 
+GENDER_CONFIDENCE_THRESHOLD = 0.70
+
 # ICSA has been published under different DBLP keys over time. How the two
 # source repos handled this:
 #
