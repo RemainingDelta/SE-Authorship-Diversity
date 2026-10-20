@@ -7,7 +7,7 @@ from ingest.openalex_parse import parse_work
 
 FIXTURES = Path(__file__).parent / "fixtures" / "openalex_works"
 
-NORMAL = "10.1109%2Fwicsa.2009.5290822.json"
+NORMAL = "10.1145%2F3377811.3380343.json"
 MULTI_AFFILIATION = "10.1145%2F1806799.1806855.json"
 NO_INSTITUTION = "10.1007%2F978-3-642-39031-9_31.json"
 
@@ -20,11 +20,11 @@ def test_normal_paper():
     work = _load(NORMAL)
     parsed = parse_work(work)
 
-    assert parsed["doi"] == work["doi"]
+    assert parsed["doi"] == "10.1145/3377811.3380343"
     assert parsed["primary_topic"] == work["primary_topic"]["display_name"]
     assert len(parsed["authorships"]) == len(work["authorships"])
-    for out, src in zip(parsed["authorships"], work["authorships"]):
-        assert out["author_position"] == src["author_position"]
+    for i, (out, src) in enumerate(zip(parsed["authorships"], work["authorships"])):
+        assert out["author_position"] == i
         assert out["openalex_name"] == src["author"]["display_name"]
         assert set(out) == {"author_position", "openalex_name", "affiliations"}
         for aff in out["affiliations"]:
@@ -65,3 +65,21 @@ def test_does_not_mutate_input():
     before = json.dumps(work, sort_keys=True)
     parse_work(work)
     assert json.dumps(work, sort_keys=True) == before
+
+
+def test_author_position_is_index_not_openalex_label():
+    # OpenAlex labels every middle author "middle"; silver needs the index.
+    parsed = parse_work(_load(MULTI_AFFILIATION))
+    assert [a["author_position"] for a in parsed["authorships"]] == [0, 1, 2]
+
+
+def test_doi_is_bare_and_lowercased():
+    work = _load(NORMAL)
+    work["doi"] = "https://doi.org/10.1109/ICSA.2017.24"
+    assert parse_work(work)["doi"] == "10.1109/icsa.2017.24"
+
+
+def test_missing_doi_is_none():
+    work = _load(NORMAL)
+    work["doi"] = None
+    assert parse_work(work)["doi"] is None
