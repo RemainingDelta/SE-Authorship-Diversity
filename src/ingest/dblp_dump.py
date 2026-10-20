@@ -20,10 +20,18 @@ import sys
 import xml.sax
 from xml.sax.handler import ContentHandler, EntityResolver
 
-from shared.config import ICSA_LINEAGE, VENUES, YEAR_END, YEAR_START
+from shared.config import (
+    ICSA_LINEAGE,
+    STRETCH_VENUES,
+    VENUES,
+    YEAR_END,
+    YEAR_START,
+)
 
-# ICSE, ECSA, ICSA from VENUES, plus WICSA (ICSA's name before 2017).
-TARGET_PREFIXES = tuple(sorted(f"conf/{v.lower()}/" for v in {*VENUES, *ICSA_LINEAGE}))
+# ICSE, ECSA, ICSA from VENUES, MSR from STRETCH_VENUES, plus WICSA (ICSA's name before 2017).
+TARGET_PREFIXES = tuple(
+    sorted(f"conf/{v.lower()}/" for v in {*VENUES, *STRETCH_VENUES, *ICSA_LINEAGE})
+)
 
 RECORD_TAGS = {"inproceedings", "proceedings"}
 FIELD_TAGS = {"title", "author", "year", "ee", "crossref", "booktitle"}
