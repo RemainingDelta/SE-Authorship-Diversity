@@ -106,3 +106,16 @@ def test_invalid_json_is_retried_then_logged(tmp_path):
     with patch.object(mod.requests, "get", return_value=bad):
         mod.fetch_works([DOI], cache_dir=tmp_path)
     assert mod._normalize_doi(DOI) in (tmp_path / mod.MISSING_FILENAME).read_text()
+
+def test_mailto_is_read_from_dotenv(tmp_path, monkeypatch):
+    monkeypatch.delenv("OPENALEX_MAILTO")
+
+    def fake_load_dotenv():
+        monkeypatch.setenv("OPENALEX_MAILTO", "dotenv@example.com")
+
+    with (
+        patch.object(mod, "load_dotenv", side_effect=fake_load_dotenv),
+        patch.object(mod.requests, "get", return_value=_resp(200, {"id": "W1"})) as get,
+    ):
+        mod.fetch_works([DOI], cache_dir=tmp_path)
+    assert get.call_args.kwargs["params"]["mailto"] == "dotenv@example.com"

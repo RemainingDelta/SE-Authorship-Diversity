@@ -13,6 +13,7 @@ from pathlib import Path
 from urllib.parse import quote
 
 import requests
+from dotenv import load_dotenv
 
 logger = logging.getLogger(__name__)
 
@@ -82,6 +83,7 @@ def fetch_works(
     missing_file = cache / MISSING_FILENAME
     known_missing = _load_missing(missing_file)
 
+    load_dotenv()  # pick up OPENALEX_MAILTO from .env; never overrides real env vars
     mailto = os.getenv("OPENALEX_MAILTO")
     params = {"mailto": mailto} if mailto else {}
     if not mailto:
