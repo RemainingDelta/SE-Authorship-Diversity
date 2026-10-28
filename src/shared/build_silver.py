@@ -41,9 +41,12 @@ def _match(dblp_name, position, authorships, matcher, used):
 
     The same position is preferred; otherwise the first unused name match.
     """
-    if position < len(authorships) and position not in used:
-        if matcher(dblp_name, authorships[position]["openalex_name"]):
-            return position
+    if (
+        position < len(authorships)
+        and position not in used
+        and matcher(dblp_name, authorships[position]["openalex_name"])
+    ):
+        return position
     for i, authorship in enumerate(authorships):
         if i not in used and matcher(dblp_name, authorship["openalex_name"]):
             return i
