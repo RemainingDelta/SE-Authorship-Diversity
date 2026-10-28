@@ -80,9 +80,9 @@ MAIN_TRACK_CROSSREF = r"^conf/(icse|ecsa|icsa|wicsa)/(\d{4})(-1)?$"
 #     but you can't split a merged region back into two.
 #
 # Unmapped codes fall back to UNMAPPED_REGION ("Other", as in add_regions.py,
-# not the checkpoint's "Unknown"). In the current geo_data output, every row
-# labelled "Other" has no country code at all. So "Other" really means "no
-# affiliation country", not "a country missing from this map".
+# not the checkpoint's "Unknown"). In geo_data, every row labelled "Other"
+# actually had no country code. Here those rows get UNKNOWN_REGION instead,
+# so "Other" now strictly means "a country missing from this map".
 REGION_MAP = {
     # North America
     "US": "North America", "CA": "North America", "MX": "North America",
@@ -119,7 +119,10 @@ REGION_MAP = {
     "LY": "Africa", "MA": "Africa", "NA": "Africa",
 }  # fmt: skip
 
+# unmapped = country is known but not in region map
 UNMAPPED_REGION = "Other"
+# unknown = country is not known
+UNKNOWN_REGION = "unknown"
 
 # Canonical display / column order (matches geo_data's proportions.py).
 REGIONS = [
