@@ -22,11 +22,12 @@ def by_key(records):
 
 
 def test_target_prefixes_come_from_config():
-    # ICSE, ECSA, ICSA from VENUES, plus WICSA from ICSA_LINEAGE
+    # ICSE, ECSA, ICSA from VENUES, MSR from STRETCH_VENUES, plus WICSA from ICSA_LINEAGE
     assert set(TARGET_PREFIXES) == {
         "conf/icse/",
         "conf/ecsa/",
         "conf/icsa/",
+        "conf/msr/",
         "conf/wicsa/",
     }
 
@@ -39,6 +40,7 @@ def test_keeps_only_target_venues_within_year_range(by_key):
         "conf/wicsa/Muller09",
         "conf/ecsa/Rossi13",
         "conf/icsa/Kim17",
+        "conf/msr/Lee20",
     }
 
 

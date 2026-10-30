@@ -17,6 +17,7 @@ FILTERED = (
     # Plain proceedings key for each venue
     "conf/icse/2020",
     "conf/ecsa/2013",
+    "conf/msr/2020",
     "conf/icsa/2017",
     # Joint WICSA/ECSA year is stored under wicsa only
     "conf/wicsa/2009",
@@ -38,6 +39,7 @@ def test_main_track_kept(crossref):
     "conf/icse/2020seip",
     "conf/icse/2020nier",
     "conf/icse/2020ast",
+    "conf/msr/2020c",  # hypothetical: DBLP has no MSR satellite volumes today
     # Not a target venue
     "conf/sigsoft/2020",
     # No crossref at all
@@ -82,3 +84,8 @@ def test_icse_counts_on_committed_data():
         2024: 237,
         2025: 245,
     }
+
+
+def test_msr_main_track_counted_and_satellite_volume_excluded():
+    records = [_paper("conf/msr/2020"), _paper("conf/msr/2020c")]
+    assert report_counts(records) == {("msr", 2020): 1}

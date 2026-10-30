@@ -65,6 +65,21 @@
 <booktitle>ICSE</booktitle>
 <crossref>conf/icse/2026</crossref>
 </inproceedings>
+<inproceedings key="conf/msr/Lee20" mdate="2020-06-01">
+<author>Sun Lee</author>
+<title>An MSR paper.</title>
+<year>2020</year>
+<booktitle>MSR</booktitle>
+<ee>https://doi.org/10.1145/3379597.3387001</ee>
+<crossref>conf/msr/2020</crossref>
+</inproceedings>
+<inproceedings key="conf/msr/Early06" mdate="2006-05-01">
+<author>Too Early</author>
+<title>MSR before the year range.</title>
+<year>2006</year>
+<booktitle>MSR</booktitle>
+<crossref>conf/msr/2006</crossref>
+</inproceedings>
 <inproceedings key="conf/sigsoft/Other20" mdate="2020-11-01">
 <author>Other Venue</author>
 <title>Not a target venue.</title>

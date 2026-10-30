@@ -52,7 +52,7 @@ ICSA_LINEAGE = {
 # track, and volume 2 is mostly companion material, so only -1 is kept.
 # Known limitation: ICSE 2011-2013 published every track in a single volume,
 # so those years can't be separated by crossref (see docs/LIMITATIONS.md).
-MAIN_TRACK_CROSSREF = r"^conf/(icse|ecsa|icsa|wicsa)/(\d{4})(-1)?$"
+MAIN_TRACK_CROSSREF = r"^conf/(icse|ecsa|icsa|wicsa|msr)/(\d{4})(-1)?$"
 
 # ── Regions ───────────────────────────────────────────────────────────────────
 
