@@ -12,3 +12,6 @@ __pycache__/
 # DBLP bulk dump (1GB+), downloaded locally; see README
 dblp.xml*
 dblp.dtd
+
+# Raw OpenAlex responses (~3,800 files), free to re-fetch
+data/bronze/openalex/

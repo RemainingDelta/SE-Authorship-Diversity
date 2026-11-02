@@ -1,0 +1,1539 @@
+[
+  {
+    "venue": "ECSA",
+    "year": 2007,
+    "joint_wicsa_ecsa": false,
+    "all_authors": {
+      "counts": {
+        "female-presenting": 29,
+        "male-presenting": 83,
+        "unclassified": 3,
+        "unknown": 0
+      },
+      "percentages": {
+        "female-presenting": 25.89,
+        "male-presenting": 74.11
+      }
+    },
+    "first_authors": {
+      "counts": {
+        "female-presenting": 10,
+        "male-presenting": 27,
+        "unclassified": 0,
+        "unknown": 0
+      },
+      "percentages": {
+        "female-presenting": 27.03,
+        "male-presenting": 72.97
+      }
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2008,
+    "joint_wicsa_ecsa": false,
+    "all_authors": {
+      "counts": {
+        "female-presenting": 18,
+        "male-presenting": 82,
+        "unclassified": 5,
+        "unknown": 1
+      },
+      "percentages": {
+        "female-presenting": 18.0,
+        "male-presenting": 82.0
+      }
+    },
+    "first_authors": {
+      "counts": {
+        "female-presenting": 7,
+        "male-presenting": 25,
+        "unclassified": 4,
+        "unknown": 1
+      },
+      "percentages": {
+        "female-presenting": 21.88,
+        "male-presenting": 78.12
+      }
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2010,
+    "joint_wicsa_ecsa": false,
+    "all_authors": {
+      "counts": {
+        "female-presenting": 24,
+        "male-presenting": 115,
+        "unclassified": 8,
+        "unknown": 4
+      },
+      "percentages": {
+        "female-presenting": 17.27,
+        "male-presenting": 82.73
+      }
+    },
+    "first_authors": {
+      "counts": {
+        "female-presenting": 7,
+        "male-presenting": 46,
+        "unclassified": 1,
+        "unknown": 2
+      },
+      "percentages": {
+        "female-presenting": 13.21,
+        "male-presenting": 86.79
+      }
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2011,
+    "joint_wicsa_ecsa": false,
+    "all_authors": {
+      "counts": {
+        "female-presenting": 29,
+        "male-presenting": 99,
+        "unclassified": 5,
+        "unknown": 0
+      },
+      "percentages": {
+        "female-presenting": 22.66,
+        "male-presenting": 77.34
+      }
+    },
+    "first_authors": {
+      "counts": {
+        "female-presenting": 10,
+        "male-presenting": 34,
+        "unclassified": 0,
+        "unknown": 0
+      },
+      "percentages": {
+        "female-presenting": 22.73,
+        "male-presenting": 77.27
+      }
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2013,
+    "joint_wicsa_ecsa": false,
+    "all_authors": {
+      "counts": {
+        "female-presenting": 22,
+        "male-presenting": 74,
+        "unclassified": 3,
+        "unknown": 0
+      },
+      "percentages": {
+        "female-presenting": 22.92,
+        "male-presenting": 77.08
+      }
+    },
+    "first_authors": {
+      "counts": {
+        "female-presenting": 6,
+        "male-presenting": 29,
+        "unclassified": 1,
+        "unknown": 0
+      },
+      "percentages": {
+        "female-presenting": 17.14,
+        "male-presenting": 82.86
+      }
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2014,
+    "joint_wicsa_ecsa": false,
+    "all_authors": {
+      "counts": {
+        "female-presenting": 24,
+        "male-presenting": 81,
+        "unclassified": 2,
+        "unknown": 0
+      },
+      "percentages": {
+        "female-presenting": 22.86,
+        "male-presenting": 77.14
+      }
+    },
+    "first_authors": {
+      "counts": {
+        "female-presenting": 7,
+        "male-presenting": 26,
+        "unclassified": 1,
+        "unknown": 0
+      },
+      "percentages": {
+        "female-presenting": 21.21,
+        "male-presenting": 78.79
+      }
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2015,
+    "joint_wicsa_ecsa": false,
+    "all_authors": {
+      "counts": {
+        "female-presenting": 17,
+        "male-presenting": 71,
+        "unclassified": 4,
+        "unknown": 0
+      },
+      "percentages": {
+        "female-presenting": 19.32,
+        "male-presenting": 80.68
+      }
+    },
+    "first_authors": {
+      "counts": {
+        "female-presenting": 6,
+        "male-presenting": 23,
+        "unclassified": 1,
+        "unknown": 0
+      },
+      "percentages": {
+        "female-presenting": 20.69,
+        "male-presenting": 79.31
+      }
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2016,
+    "joint_wicsa_ecsa": false,
+    "all_authors": {
+      "counts": {
+        "female-presenting": 18,
+        "male-presenting": 77,
+        "unclassified": 3,
+        "unknown": 0
+      },
+      "percentages": {
+        "female-presenting": 18.95,
+        "male-presenting": 81.05
+      }
+    },
+    "first_authors": {
+      "counts": {
+        "female-presenting": 7,
+        "male-presenting": 18,
+        "unclassified": 0,
+        "unknown": 0
+      },
+      "percentages": {
+        "female-presenting": 28.0,
+        "male-presenting": 72.0
+      }
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2017,
+    "joint_wicsa_ecsa": false,
+    "all_authors": {
+      "counts": {
+        "female-presenting": 6,
+        "male-presenting": 41,
+        "unclassified": 4,
+        "unknown": 1
+      },
+      "percentages": {
+        "female-presenting": 12.77,
+        "male-presenting": 87.23
+      }
+    },
+    "first_authors": {
+      "counts": {
+        "female-presenting": 2,
+        "male-presenting": 12,
+        "unclassified": 1,
+        "unknown": 0
+      },
+      "percentages": {
+        "female-presenting": 14.29,
+        "male-presenting": 85.71
+      }
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2018,
+    "joint_wicsa_ecsa": false,
+    "all_authors": {
+      "counts": {
+        "female-presenting": 13,
+        "male-presenting": 64,
+        "unclassified": 7,
+        "unknown": 0
+      },
+      "percentages": {
+        "female-presenting": 16.88,
+        "male-presenting": 83.12
+      }
+    },
+    "first_authors": {
+      "counts": {
+        "female-presenting": 3,
+        "male-presenting": 20,
+        "unclassified": 1,
+        "unknown": 0
+      },
+      "percentages": {
+        "female-presenting": 13.04,
+        "male-presenting": 86.96
+      }
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2019,
+    "joint_wicsa_ecsa": false,
+    "all_authors": {
+      "counts": {
+        "female-presenting": 15,
+        "male-presenting": 44,
+        "unclassified": 2,
+        "unknown": 0
+      },
+      "percentages": {
+        "female-presenting": 25.42,
+        "male-presenting": 74.58
+      }
+    },
+    "first_authors": {
+      "counts": {
+        "female-presenting": 4,
+        "male-presenting": 13,
+        "unclassified": 1,
+        "unknown": 0
+      },
+      "percentages": {
+        "female-presenting": 23.53,
+        "male-presenting": 76.47
+      }
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2020,
+    "joint_wicsa_ecsa": false,
+    "all_authors": {
+      "counts": {
+        "female-presenting": 18,
+        "male-presenting": 61,
+        "unclassified": 2,
+        "unknown": 0
+      },
+      "percentages": {
+        "female-presenting": 22.78,
+        "male-presenting": 77.22
+      }
+    },
+    "first_authors": {
+      "counts": {
+        "female-presenting": 5,
+        "male-presenting": 17,
+        "unclassified": 1,
+        "unknown": 0
+      },
+      "percentages": {
+        "female-presenting": 22.73,
+        "male-presenting": 77.27
+      }
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2021,
+    "joint_wicsa_ecsa": false,
+    "all_authors": {
+      "counts": {
+        "female-presenting": 17,
+        "male-presenting": 63,
+        "unclassified": 6,
+        "unknown": 0
+      },
+      "percentages": {
+        "female-presenting": 21.25,
+        "male-presenting": 78.75
+      }
+    },
+    "first_authors": {
+      "counts": {
+        "female-presenting": 4,
+        "male-presenting": 16,
+        "unclassified": 1,
+        "unknown": 0
+      },
+      "percentages": {
+        "female-presenting": 20.0,
+        "male-presenting": 80.0
+      }
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2022,
+    "joint_wicsa_ecsa": false,
+    "all_authors": {
+      "counts": {
+        "female-presenting": 10,
+        "male-presenting": 38,
+        "unclassified": 1,
+        "unknown": 0
+      },
+      "percentages": {
+        "female-presenting": 20.83,
+        "male-presenting": 79.17
+      }
+    },
+    "first_authors": {
+      "counts": {
+        "female-presenting": 2,
+        "male-presenting": 13,
+        "unclassified": 0,
+        "unknown": 0
+      },
+      "percentages": {
+        "female-presenting": 13.33,
+        "male-presenting": 86.67
+      }
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2023,
+    "joint_wicsa_ecsa": false,
+    "all_authors": {
+      "counts": {
+        "female-presenting": 20,
+        "male-presenting": 61,
+        "unclassified": 2,
+        "unknown": 0
+      },
+      "percentages": {
+        "female-presenting": 24.69,
+        "male-presenting": 75.31
+      }
+    },
+    "first_authors": {
+      "counts": {
+        "female-presenting": 7,
+        "male-presenting": 18,
+        "unclassified": 0,
+        "unknown": 0
+      },
+      "percentages": {
+        "female-presenting": 28.0,
+        "male-presenting": 72.0
+      }
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2024,
+    "joint_wicsa_ecsa": false,
+    "all_authors": {
+      "counts": {
+        "female-presenting": 25,
+        "male-presenting": 61,
+        "unclassified": 2,
+        "unknown": 1
+      },
+      "percentages": {
+        "female-presenting": 29.07,
+        "male-presenting": 70.93
+      }
+    },
+    "first_authors": {
+      "counts": {
+        "female-presenting": 8,
+        "male-presenting": 17,
+        "unclassified": 1,
+        "unknown": 1
+      },
+      "percentages": {
+        "female-presenting": 32.0,
+        "male-presenting": 68.0
+      }
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2025,
+    "joint_wicsa_ecsa": false,
+    "all_authors": {
+      "counts": {
+        "female-presenting": 20,
+        "male-presenting": 82,
+        "unclassified": 6,
+        "unknown": 0
+      },
+      "percentages": {
+        "female-presenting": 19.61,
+        "male-presenting": 80.39
+      }
+    },
+    "first_authors": {
+      "counts": {
+        "female-presenting": 4,
+        "male-presenting": 22,
+        "unclassified": 1,
+        "unknown": 0
+      },
+      "percentages": {
+        "female-presenting": 15.38,
+        "male-presenting": 84.62
+      }
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2007,
+    "joint_wicsa_ecsa": false,
+    "all_authors": {
+      "counts": {
+        "female-presenting": 14,
+        "male-presenting": 94,
+        "unclassified": 4,
+        "unknown": 0
+      },
+      "percentages": {
+        "female-presenting": 12.96,
+        "male-presenting": 87.04
+      }
+    },
+    "first_authors": {
+      "counts": {
+        "female-presenting": 6,
+        "male-presenting": 35,
+        "unclassified": 2,
+        "unknown": 0
+      },
+      "percentages": {
+        "female-presenting": 14.63,
+        "male-presenting": 85.37
+      }
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2008,
+    "joint_wicsa_ecsa": false,
+    "all_authors": {
+      "counts": {
+        "female-presenting": 17,
+        "male-presenting": 101,
+        "unclassified": 10,
+        "unknown": 1
+      },
+      "percentages": {
+        "female-presenting": 14.41,
+        "male-presenting": 85.59
+      }
+    },
+    "first_authors": {
+      "counts": {
+        "female-presenting": 5,
+        "male-presenting": 37,
+        "unclassified": 3,
+        "unknown": 0
+      },
+      "percentages": {
+        "female-presenting": 11.9,
+        "male-presenting": 88.1
+      }
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2009,
+    "joint_wicsa_ecsa": true,
+    "all_authors": {
+      "counts": {
+        "female-presenting": 41,
+        "male-presenting": 121,
+        "unclassified": 12,
+        "unknown": 1
+      },
+      "percentages": {
+        "female-presenting": 25.31,
+        "male-presenting": 74.69
+      }
+    },
+    "first_authors": {
+      "counts": {
+        "female-presenting": 13,
+        "male-presenting": 36,
+        "unclassified": 4,
+        "unknown": 0
+      },
+      "percentages": {
+        "female-presenting": 26.53,
+        "male-presenting": 73.47
+      }
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2011,
+    "joint_wicsa_ecsa": false,
+    "all_authors": {
+      "counts": {
+        "female-presenting": 17,
+        "male-presenting": 119,
+        "unclassified": 5,
+        "unknown": 1
+      },
+      "percentages": {
+        "female-presenting": 12.5,
+        "male-presenting": 87.5
+      }
+    },
+    "first_authors": {
+      "counts": {
+        "female-presenting": 10,
+        "male-presenting": 41,
+        "unclassified": 0,
+        "unknown": 0
+      },
+      "percentages": {
+        "female-presenting": 19.61,
+        "male-presenting": 80.39
+      }
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2012,
+    "joint_wicsa_ecsa": true,
+    "all_authors": {
+      "counts": {
+        "female-presenting": 19,
+        "male-presenting": 131,
+        "unclassified": 8,
+        "unknown": 0
+      },
+      "percentages": {
+        "female-presenting": 12.67,
+        "male-presenting": 87.33
+      }
+    },
+    "first_authors": {
+      "counts": {
+        "female-presenting": 9,
+        "male-presenting": 38,
+        "unclassified": 1,
+        "unknown": 0
+      },
+      "percentages": {
+        "female-presenting": 19.15,
+        "male-presenting": 80.85
+      }
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2014,
+    "joint_wicsa_ecsa": false,
+    "all_authors": {
+      "counts": {
+        "female-presenting": 15,
+        "male-presenting": 89,
+        "unclassified": 10,
+        "unknown": 2
+      },
+      "percentages": {
+        "female-presenting": 14.42,
+        "male-presenting": 85.58
+      }
+    },
+    "first_authors": {
+      "counts": {
+        "female-presenting": 7,
+        "male-presenting": 25,
+        "unclassified": 4,
+        "unknown": 0
+      },
+      "percentages": {
+        "female-presenting": 21.88,
+        "male-presenting": 78.12
+      }
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2015,
+    "joint_wicsa_ecsa": false,
+    "all_authors": {
+      "counts": {
+        "female-presenting": 6,
+        "male-presenting": 52,
+        "unclassified": 6,
+        "unknown": 1
+      },
+      "percentages": {
+        "female-presenting": 10.34,
+        "male-presenting": 89.66
+      }
+    },
+    "first_authors": {
+      "counts": {
+        "female-presenting": 2,
+        "male-presenting": 16,
+        "unclassified": 3,
+        "unknown": 0
+      },
+      "percentages": {
+        "female-presenting": 11.11,
+        "male-presenting": 88.89
+      }
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2016,
+    "joint_wicsa_ecsa": false,
+    "all_authors": {
+      "counts": {
+        "female-presenting": 18,
+        "male-presenting": 129,
+        "unclassified": 11,
+        "unknown": 1
+      },
+      "percentages": {
+        "female-presenting": 12.24,
+        "male-presenting": 87.76
+      }
+    },
+    "first_authors": {
+      "counts": {
+        "female-presenting": 5,
+        "male-presenting": 39,
+        "unclassified": 2,
+        "unknown": 1
+      },
+      "percentages": {
+        "female-presenting": 11.36,
+        "male-presenting": 88.64
+      }
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2017,
+    "joint_wicsa_ecsa": false,
+    "all_authors": {
+      "counts": {
+        "female-presenting": 22,
+        "male-presenting": 102,
+        "unclassified": 12,
+        "unknown": 0
+      },
+      "percentages": {
+        "female-presenting": 17.74,
+        "male-presenting": 82.26
+      }
+    },
+    "first_authors": {
+      "counts": {
+        "female-presenting": 4,
+        "male-presenting": 26,
+        "unclassified": 4,
+        "unknown": 0
+      },
+      "percentages": {
+        "female-presenting": 13.33,
+        "male-presenting": 86.67
+      }
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2018,
+    "joint_wicsa_ecsa": false,
+    "all_authors": {
+      "counts": {
+        "female-presenting": 13,
+        "male-presenting": 74,
+        "unclassified": 4,
+        "unknown": 0
+      },
+      "percentages": {
+        "female-presenting": 14.94,
+        "male-presenting": 85.06
+      }
+    },
+    "first_authors": {
+      "counts": {
+        "female-presenting": 1,
+        "male-presenting": 20,
+        "unclassified": 2,
+        "unknown": 0
+      },
+      "percentages": {
+        "female-presenting": 4.76,
+        "male-presenting": 95.24
+      }
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2019,
+    "joint_wicsa_ecsa": false,
+    "all_authors": {
+      "counts": {
+        "female-presenting": 12,
+        "male-presenting": 59,
+        "unclassified": 9,
+        "unknown": 2
+      },
+      "percentages": {
+        "female-presenting": 16.9,
+        "male-presenting": 83.1
+      }
+    },
+    "first_authors": {
+      "counts": {
+        "female-presenting": 6,
+        "male-presenting": 13,
+        "unclassified": 3,
+        "unknown": 0
+      },
+      "percentages": {
+        "female-presenting": 31.58,
+        "male-presenting": 68.42
+      }
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2020,
+    "joint_wicsa_ecsa": false,
+    "all_authors": {
+      "counts": {
+        "female-presenting": 14,
+        "male-presenting": 44,
+        "unclassified": 7,
+        "unknown": 0
+      },
+      "percentages": {
+        "female-presenting": 24.14,
+        "male-presenting": 75.86
+      }
+    },
+    "first_authors": {
+      "counts": {
+        "female-presenting": 5,
+        "male-presenting": 13,
+        "unclassified": 1,
+        "unknown": 0
+      },
+      "percentages": {
+        "female-presenting": 27.78,
+        "male-presenting": 72.22
+      }
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2021,
+    "joint_wicsa_ecsa": false,
+    "all_authors": {
+      "counts": {
+        "female-presenting": 9,
+        "male-presenting": 43,
+        "unclassified": 8,
+        "unknown": 1
+      },
+      "percentages": {
+        "female-presenting": 17.31,
+        "male-presenting": 82.69
+      }
+    },
+    "first_authors": {
+      "counts": {
+        "female-presenting": 1,
+        "male-presenting": 13,
+        "unclassified": 1,
+        "unknown": 1
+      },
+      "percentages": {
+        "female-presenting": 7.14,
+        "male-presenting": 92.86
+      }
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2022,
+    "joint_wicsa_ecsa": false,
+    "all_authors": {
+      "counts": {
+        "female-presenting": 13,
+        "male-presenting": 61,
+        "unclassified": 3,
+        "unknown": 0
+      },
+      "percentages": {
+        "female-presenting": 17.57,
+        "male-presenting": 82.43
+      }
+    },
+    "first_authors": {
+      "counts": {
+        "female-presenting": 1,
+        "male-presenting": 14,
+        "unclassified": 2,
+        "unknown": 0
+      },
+      "percentages": {
+        "female-presenting": 6.67,
+        "male-presenting": 93.33
+      }
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2023,
+    "joint_wicsa_ecsa": false,
+    "all_authors": {
+      "counts": {
+        "female-presenting": 18,
+        "male-presenting": 36,
+        "unclassified": 7,
+        "unknown": 0
+      },
+      "percentages": {
+        "female-presenting": 33.33,
+        "male-presenting": 66.67
+      }
+    },
+    "first_authors": {
+      "counts": {
+        "female-presenting": 6,
+        "male-presenting": 9,
+        "unclassified": 1,
+        "unknown": 0
+      },
+      "percentages": {
+        "female-presenting": 40.0,
+        "male-presenting": 60.0
+      }
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2024,
+    "joint_wicsa_ecsa": false,
+    "all_authors": {
+      "counts": {
+        "female-presenting": 15,
+        "male-presenting": 56,
+        "unclassified": 2,
+        "unknown": 1
+      },
+      "percentages": {
+        "female-presenting": 21.13,
+        "male-presenting": 78.87
+      }
+    },
+    "first_authors": {
+      "counts": {
+        "female-presenting": 5,
+        "male-presenting": 13,
+        "unclassified": 0,
+        "unknown": 0
+      },
+      "percentages": {
+        "female-presenting": 27.78,
+        "male-presenting": 72.22
+      }
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2025,
+    "joint_wicsa_ecsa": false,
+    "all_authors": {
+      "counts": {
+        "female-presenting": 16,
+        "male-presenting": 76,
+        "unclassified": 8,
+        "unknown": 1
+      },
+      "percentages": {
+        "female-presenting": 17.39,
+        "male-presenting": 82.61
+      }
+    },
+    "first_authors": {
+      "counts": {
+        "female-presenting": 3,
+        "male-presenting": 25,
+        "unclassified": 0,
+        "unknown": 0
+      },
+      "percentages": {
+        "female-presenting": 10.71,
+        "male-presenting": 89.29
+      }
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2007,
+    "joint_wicsa_ecsa": false,
+    "all_authors": {
+      "counts": {
+        "female-presenting": 38,
+        "male-presenting": 208,
+        "unclassified": 21,
+        "unknown": 1
+      },
+      "percentages": {
+        "female-presenting": 15.45,
+        "male-presenting": 84.55
+      }
+    },
+    "first_authors": {
+      "counts": {
+        "female-presenting": 8,
+        "male-presenting": 70,
+        "unclassified": 11,
+        "unknown": 0
+      },
+      "percentages": {
+        "female-presenting": 10.26,
+        "male-presenting": 89.74
+      }
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2008,
+    "joint_wicsa_ecsa": false,
+    "all_authors": {
+      "counts": {
+        "female-presenting": 52,
+        "male-presenting": 266,
+        "unclassified": 19,
+        "unknown": 1
+      },
+      "percentages": {
+        "female-presenting": 16.35,
+        "male-presenting": 83.65
+      }
+    },
+    "first_authors": {
+      "counts": {
+        "female-presenting": 14,
+        "male-presenting": 81,
+        "unclassified": 7,
+        "unknown": 1
+      },
+      "percentages": {
+        "female-presenting": 14.74,
+        "male-presenting": 85.26
+      }
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2009,
+    "joint_wicsa_ecsa": false,
+    "all_authors": {
+      "counts": {
+        "female-presenting": 46,
+        "male-presenting": 178,
+        "unclassified": 14,
+        "unknown": 1
+      },
+      "percentages": {
+        "female-presenting": 20.54,
+        "male-presenting": 79.46
+      }
+    },
+    "first_authors": {
+      "counts": {
+        "female-presenting": 12,
+        "male-presenting": 56,
+        "unclassified": 1,
+        "unknown": 1
+      },
+      "percentages": {
+        "female-presenting": 17.65,
+        "male-presenting": 82.35
+      }
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2010,
+    "joint_wicsa_ecsa": false,
+    "all_authors": {
+      "counts": {
+        "female-presenting": 34,
+        "male-presenting": 176,
+        "unclassified": 14,
+        "unknown": 2
+      },
+      "percentages": {
+        "female-presenting": 16.19,
+        "male-presenting": 83.81
+      }
+    },
+    "first_authors": {
+      "counts": {
+        "female-presenting": 9,
+        "male-presenting": 50,
+        "unclassified": 4,
+        "unknown": 2
+      },
+      "percentages": {
+        "female-presenting": 15.25,
+        "male-presenting": 84.75
+      }
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2011,
+    "joint_wicsa_ecsa": false,
+    "all_authors": {
+      "counts": {
+        "female-presenting": 105,
+        "male-presenting": 514,
+        "unclassified": 44,
+        "unknown": 0
+      },
+      "percentages": {
+        "female-presenting": 16.96,
+        "male-presenting": 83.04
+      }
+    },
+    "first_authors": {
+      "counts": {
+        "female-presenting": 29,
+        "male-presenting": 168,
+        "unclassified": 17,
+        "unknown": 0
+      },
+      "percentages": {
+        "female-presenting": 14.72,
+        "male-presenting": 85.28
+      }
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2012,
+    "joint_wicsa_ecsa": false,
+    "all_authors": {
+      "counts": {
+        "female-presenting": 118,
+        "male-presenting": 559,
+        "unclassified": 49,
+        "unknown": 3
+      },
+      "percentages": {
+        "female-presenting": 17.43,
+        "male-presenting": 82.57
+      }
+    },
+    "first_authors": {
+      "counts": {
+        "female-presenting": 47,
+        "male-presenting": 177,
+        "unclassified": 13,
+        "unknown": 2
+      },
+      "percentages": {
+        "female-presenting": 20.98,
+        "male-presenting": 79.02
+      }
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2013,
+    "joint_wicsa_ecsa": false,
+    "all_authors": {
+      "counts": {
+        "female-presenting": 143,
+        "male-presenting": 577,
+        "unclassified": 48,
+        "unknown": 4
+      },
+      "percentages": {
+        "female-presenting": 19.86,
+        "male-presenting": 80.14
+      }
+    },
+    "first_authors": {
+      "counts": {
+        "female-presenting": 48,
+        "male-presenting": 177,
+        "unclassified": 14,
+        "unknown": 3
+      },
+      "percentages": {
+        "female-presenting": 21.33,
+        "male-presenting": 78.67
+      }
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2014,
+    "joint_wicsa_ecsa": false,
+    "all_authors": {
+      "counts": {
+        "female-presenting": 56,
+        "male-presenting": 255,
+        "unclassified": 38,
+        "unknown": 6
+      },
+      "percentages": {
+        "female-presenting": 18.01,
+        "male-presenting": 81.99
+      }
+    },
+    "first_authors": {
+      "counts": {
+        "female-presenting": 21,
+        "male-presenting": 67,
+        "unclassified": 8,
+        "unknown": 3
+      },
+      "percentages": {
+        "female-presenting": 23.86,
+        "male-presenting": 76.14
+      }
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2015,
+    "joint_wicsa_ecsa": false,
+    "all_authors": {
+      "counts": {
+        "female-presenting": 61,
+        "male-presenting": 258,
+        "unclassified": 24,
+        "unknown": 4
+      },
+      "percentages": {
+        "female-presenting": 19.12,
+        "male-presenting": 80.88
+      }
+    },
+    "first_authors": {
+      "counts": {
+        "female-presenting": 14,
+        "male-presenting": 60,
+        "unclassified": 10,
+        "unknown": 2
+      },
+      "percentages": {
+        "female-presenting": 18.92,
+        "male-presenting": 81.08
+      }
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2016,
+    "joint_wicsa_ecsa": false,
+    "all_authors": {
+      "counts": {
+        "female-presenting": 70,
+        "male-presenting": 314,
+        "unclassified": 50,
+        "unknown": 7
+      },
+      "percentages": {
+        "female-presenting": 18.23,
+        "male-presenting": 81.77
+      }
+    },
+    "first_authors": {
+      "counts": {
+        "female-presenting": 21,
+        "male-presenting": 70,
+        "unclassified": 7,
+        "unknown": 3
+      },
+      "percentages": {
+        "female-presenting": 23.08,
+        "male-presenting": 76.92
+      }
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2017,
+    "joint_wicsa_ecsa": false,
+    "all_authors": {
+      "counts": {
+        "female-presenting": 41,
+        "male-presenting": 200,
+        "unclassified": 30,
+        "unknown": 3
+      },
+      "percentages": {
+        "female-presenting": 17.01,
+        "male-presenting": 82.99
+      }
+    },
+    "first_authors": {
+      "counts": {
+        "female-presenting": 13,
+        "male-presenting": 49,
+        "unclassified": 5,
+        "unknown": 1
+      },
+      "percentages": {
+        "female-presenting": 20.97,
+        "male-presenting": 79.03
+      }
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2018,
+    "joint_wicsa_ecsa": false,
+    "all_authors": {
+      "counts": {
+        "female-presenting": 111,
+        "male-presenting": 469,
+        "unclassified": 63,
+        "unknown": 6
+      },
+      "percentages": {
+        "female-presenting": 19.14,
+        "male-presenting": 80.86
+      }
+    },
+    "first_authors": {
+      "counts": {
+        "female-presenting": 26,
+        "male-presenting": 106,
+        "unclassified": 17,
+        "unknown": 4
+      },
+      "percentages": {
+        "female-presenting": 19.7,
+        "male-presenting": 80.3
+      }
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2019,
+    "joint_wicsa_ecsa": false,
+    "all_authors": {
+      "counts": {
+        "female-presenting": 95,
+        "male-presenting": 340,
+        "unclassified": 74,
+        "unknown": 8
+      },
+      "percentages": {
+        "female-presenting": 21.84,
+        "male-presenting": 78.16
+      }
+    },
+    "first_authors": {
+      "counts": {
+        "female-presenting": 18,
+        "male-presenting": 79,
+        "unclassified": 11,
+        "unknown": 1
+      },
+      "percentages": {
+        "female-presenting": 18.56,
+        "male-presenting": 81.44
+      }
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2020,
+    "joint_wicsa_ecsa": false,
+    "all_authors": {
+      "counts": {
+        "female-presenting": 120,
+        "male-presenting": 388,
+        "unclassified": 101,
+        "unknown": 6
+      },
+      "percentages": {
+        "female-presenting": 23.62,
+        "male-presenting": 76.38
+      }
+    },
+    "first_authors": {
+      "counts": {
+        "female-presenting": 34,
+        "male-presenting": 78,
+        "unclassified": 15,
+        "unknown": 2
+      },
+      "percentages": {
+        "female-presenting": 30.36,
+        "male-presenting": 69.64
+      }
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2021,
+    "joint_wicsa_ecsa": false,
+    "all_authors": {
+      "counts": {
+        "female-presenting": 107,
+        "male-presenting": 433,
+        "unclassified": 103,
+        "unknown": 10
+      },
+      "percentages": {
+        "female-presenting": 19.81,
+        "male-presenting": 80.19
+      }
+    },
+    "first_authors": {
+      "counts": {
+        "female-presenting": 31,
+        "male-presenting": 83,
+        "unclassified": 24,
+        "unknown": 0
+      },
+      "percentages": {
+        "female-presenting": 27.19,
+        "male-presenting": 72.81
+      }
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2022,
+    "joint_wicsa_ecsa": false,
+    "all_authors": {
+      "counts": {
+        "female-presenting": 170,
+        "male-presenting": 606,
+        "unclassified": 183,
+        "unknown": 11
+      },
+      "percentages": {
+        "female-presenting": 21.91,
+        "male-presenting": 78.09
+      }
+    },
+    "first_authors": {
+      "counts": {
+        "female-presenting": 38,
+        "male-presenting": 122,
+        "unclassified": 36,
+        "unknown": 3
+      },
+      "percentages": {
+        "female-presenting": 23.75,
+        "male-presenting": 76.25
+      }
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2023,
+    "joint_wicsa_ecsa": false,
+    "all_authors": {
+      "counts": {
+        "female-presenting": 161,
+        "male-presenting": 630,
+        "unclassified": 201,
+        "unknown": 19
+      },
+      "percentages": {
+        "female-presenting": 20.35,
+        "male-presenting": 79.65
+      }
+    },
+    "first_authors": {
+      "counts": {
+        "female-presenting": 45,
+        "male-presenting": 126,
+        "unclassified": 35,
+        "unknown": 5
+      },
+      "percentages": {
+        "female-presenting": 26.32,
+        "male-presenting": 73.68
+      }
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2024,
+    "joint_wicsa_ecsa": false,
+    "all_authors": {
+      "counts": {
+        "female-presenting": 196,
+        "male-presenting": 739,
+        "unclassified": 281,
+        "unknown": 18
+      },
+      "percentages": {
+        "female-presenting": 20.96,
+        "male-presenting": 79.04
+      }
+    },
+    "first_authors": {
+      "counts": {
+        "female-presenting": 38,
+        "male-presenting": 150,
+        "unclassified": 47,
+        "unknown": 2
+      },
+      "percentages": {
+        "female-presenting": 20.21,
+        "male-presenting": 79.79
+      }
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2025,
+    "joint_wicsa_ecsa": false,
+    "all_authors": {
+      "counts": {
+        "female-presenting": 228,
+        "male-presenting": 792,
+        "unclassified": 295,
+        "unknown": 12
+      },
+      "percentages": {
+        "female-presenting": 22.35,
+        "male-presenting": 77.65
+      }
+    },
+    "first_authors": {
+      "counts": {
+        "female-presenting": 46,
+        "male-presenting": 148,
+        "unclassified": 48,
+        "unknown": 3
+      },
+      "percentages": {
+        "female-presenting": 23.71,
+        "male-presenting": 76.29
+      }
+    }
+  }
+]

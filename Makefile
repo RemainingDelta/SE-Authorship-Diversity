@@ -1,4 +1,4 @@
-.PHONY: help install lint fix test ci clean
+.PHONY: help install lint fix test ci clean pipeline
 
 help:
 	@echo "make install  install Python dependencies"
@@ -7,6 +7,7 @@ help:
 	@echo "make test     run pytest"
 	@echo "make ci       run everything CI runs"
 	@echo "make clean    remove caches"
+	@echo "make pipeline run the data pipeline (STAGE=gold for one stage)"
 
 install:
 	pip install -r requirements.txt
@@ -25,6 +26,11 @@ ci:
 	@ruff check src/
 	@ruff format --check src/ || (echo "Python files need formatting — run: make fix" && exit 1)
 	@pytest tests/
+
+STAGE ?= all
+
+pipeline:
+	PYTHONPATH=src python -m run_pipeline --stage $(STAGE)
 
 clean:
 	rm -rf .pytest_cache .ruff_cache

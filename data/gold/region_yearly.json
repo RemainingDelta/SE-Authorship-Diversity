@@ -1,0 +1,1486 @@
+[
+  {
+    "venue": "ECSA",
+    "year": 2007,
+    "joint_wicsa_ecsa": false,
+    "total_papers": 37,
+    "counts": {
+      "North America": 3,
+      "W. Europe": 35,
+      "E. Europe": 1,
+      "Asia-Pacific": 1,
+      "Latin America": 2,
+      "Middle East": 0,
+      "Africa": 2,
+      "Other": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "North America": 8.11,
+      "W. Europe": 94.59,
+      "E. Europe": 2.7,
+      "Asia-Pacific": 2.7,
+      "Latin America": 5.41,
+      "Middle East": 0.0,
+      "Africa": 5.41,
+      "Other": 0.0,
+      "unknown": 0.0
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2008,
+    "joint_wicsa_ecsa": false,
+    "total_papers": 37,
+    "counts": {
+      "North America": 5,
+      "W. Europe": 26,
+      "E. Europe": 1,
+      "Asia-Pacific": 1,
+      "Latin America": 4,
+      "Middle East": 0,
+      "Africa": 0,
+      "Other": 2,
+      "unknown": 0
+    },
+    "percentages": {
+      "North America": 13.51,
+      "W. Europe": 70.27,
+      "E. Europe": 2.7,
+      "Asia-Pacific": 2.7,
+      "Latin America": 10.81,
+      "Middle East": 0.0,
+      "Africa": 0.0,
+      "Other": 5.41,
+      "unknown": 0.0
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2010,
+    "joint_wicsa_ecsa": false,
+    "total_papers": 56,
+    "counts": {
+      "North America": 5,
+      "W. Europe": 42,
+      "E. Europe": 1,
+      "Asia-Pacific": 4,
+      "Latin America": 3,
+      "Middle East": 0,
+      "Africa": 4,
+      "Other": 0,
+      "unknown": 1
+    },
+    "percentages": {
+      "North America": 8.93,
+      "W. Europe": 75.0,
+      "E. Europe": 1.79,
+      "Asia-Pacific": 7.14,
+      "Latin America": 5.36,
+      "Middle East": 0.0,
+      "Africa": 7.14,
+      "Other": 0.0,
+      "unknown": 1.79
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2011,
+    "joint_wicsa_ecsa": false,
+    "total_papers": 44,
+    "counts": {
+      "North America": 4,
+      "W. Europe": 34,
+      "E. Europe": 2,
+      "Asia-Pacific": 0,
+      "Latin America": 5,
+      "Middle East": 4,
+      "Africa": 2,
+      "Other": 0,
+      "unknown": 1
+    },
+    "percentages": {
+      "North America": 9.09,
+      "W. Europe": 77.27,
+      "E. Europe": 4.55,
+      "Asia-Pacific": 0.0,
+      "Latin America": 11.36,
+      "Middle East": 9.09,
+      "Africa": 4.55,
+      "Other": 0.0,
+      "unknown": 2.27
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2013,
+    "joint_wicsa_ecsa": false,
+    "total_papers": 36,
+    "counts": {
+      "North America": 1,
+      "W. Europe": 31,
+      "E. Europe": 0,
+      "Asia-Pacific": 2,
+      "Latin America": 4,
+      "Middle East": 0,
+      "Africa": 3,
+      "Other": 0,
+      "unknown": 1
+    },
+    "percentages": {
+      "North America": 2.78,
+      "W. Europe": 86.11,
+      "E. Europe": 0.0,
+      "Asia-Pacific": 5.56,
+      "Latin America": 11.11,
+      "Middle East": 0.0,
+      "Africa": 8.33,
+      "Other": 0.0,
+      "unknown": 2.78
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2014,
+    "joint_wicsa_ecsa": false,
+    "total_papers": 34,
+    "counts": {
+      "North America": 3,
+      "W. Europe": 26,
+      "E. Europe": 2,
+      "Asia-Pacific": 2,
+      "Latin America": 2,
+      "Middle East": 2,
+      "Africa": 0,
+      "Other": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "North America": 8.82,
+      "W. Europe": 76.47,
+      "E. Europe": 5.88,
+      "Asia-Pacific": 5.88,
+      "Latin America": 5.88,
+      "Middle East": 5.88,
+      "Africa": 0.0,
+      "Other": 0.0,
+      "unknown": 0.0
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2015,
+    "joint_wicsa_ecsa": false,
+    "total_papers": 30,
+    "counts": {
+      "North America": 4,
+      "W. Europe": 23,
+      "E. Europe": 1,
+      "Asia-Pacific": 6,
+      "Latin America": 3,
+      "Middle East": 0,
+      "Africa": 1,
+      "Other": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "North America": 13.33,
+      "W. Europe": 76.67,
+      "E. Europe": 3.33,
+      "Asia-Pacific": 20.0,
+      "Latin America": 10.0,
+      "Middle East": 0.0,
+      "Africa": 3.33,
+      "Other": 0.0,
+      "unknown": 0.0
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2016,
+    "joint_wicsa_ecsa": false,
+    "total_papers": 25,
+    "counts": {
+      "North America": 3,
+      "W. Europe": 22,
+      "E. Europe": 1,
+      "Asia-Pacific": 3,
+      "Latin America": 1,
+      "Middle East": 2,
+      "Africa": 0,
+      "Other": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "North America": 12.0,
+      "W. Europe": 88.0,
+      "E. Europe": 4.0,
+      "Asia-Pacific": 12.0,
+      "Latin America": 4.0,
+      "Middle East": 8.0,
+      "Africa": 0.0,
+      "Other": 0.0,
+      "unknown": 0.0
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2017,
+    "joint_wicsa_ecsa": false,
+    "total_papers": 15,
+    "counts": {
+      "North America": 1,
+      "W. Europe": 13,
+      "E. Europe": 1,
+      "Asia-Pacific": 1,
+      "Latin America": 1,
+      "Middle East": 1,
+      "Africa": 0,
+      "Other": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "North America": 6.67,
+      "W. Europe": 86.67,
+      "E. Europe": 6.67,
+      "Asia-Pacific": 6.67,
+      "Latin America": 6.67,
+      "Middle East": 6.67,
+      "Africa": 0.0,
+      "Other": 0.0,
+      "unknown": 0.0
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2018,
+    "joint_wicsa_ecsa": false,
+    "total_papers": 24,
+    "counts": {
+      "North America": 1,
+      "W. Europe": 18,
+      "E. Europe": 1,
+      "Asia-Pacific": 3,
+      "Latin America": 3,
+      "Middle East": 0,
+      "Africa": 0,
+      "Other": 0,
+      "unknown": 1
+    },
+    "percentages": {
+      "North America": 4.17,
+      "W. Europe": 75.0,
+      "E. Europe": 4.17,
+      "Asia-Pacific": 12.5,
+      "Latin America": 12.5,
+      "Middle East": 0.0,
+      "Africa": 0.0,
+      "Other": 0.0,
+      "unknown": 4.17
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2019,
+    "joint_wicsa_ecsa": false,
+    "total_papers": 18,
+    "counts": {
+      "North America": 1,
+      "W. Europe": 14,
+      "E. Europe": 0,
+      "Asia-Pacific": 2,
+      "Latin America": 1,
+      "Middle East": 1,
+      "Africa": 0,
+      "Other": 0,
+      "unknown": 1
+    },
+    "percentages": {
+      "North America": 5.56,
+      "W. Europe": 77.78,
+      "E. Europe": 0.0,
+      "Asia-Pacific": 11.11,
+      "Latin America": 5.56,
+      "Middle East": 5.56,
+      "Africa": 0.0,
+      "Other": 0.0,
+      "unknown": 5.56
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2020,
+    "joint_wicsa_ecsa": false,
+    "total_papers": 23,
+    "counts": {
+      "North America": 3,
+      "W. Europe": 20,
+      "E. Europe": 0,
+      "Asia-Pacific": 3,
+      "Latin America": 3,
+      "Middle East": 0,
+      "Africa": 0,
+      "Other": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "North America": 13.04,
+      "W. Europe": 86.96,
+      "E. Europe": 0.0,
+      "Asia-Pacific": 13.04,
+      "Latin America": 13.04,
+      "Middle East": 0.0,
+      "Africa": 0.0,
+      "Other": 0.0,
+      "unknown": 0.0
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2021,
+    "joint_wicsa_ecsa": false,
+    "total_papers": 21,
+    "counts": {
+      "North America": 2,
+      "W. Europe": 19,
+      "E. Europe": 0,
+      "Asia-Pacific": 4,
+      "Latin America": 1,
+      "Middle East": 0,
+      "Africa": 0,
+      "Other": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "North America": 9.52,
+      "W. Europe": 90.48,
+      "E. Europe": 0.0,
+      "Asia-Pacific": 19.05,
+      "Latin America": 4.76,
+      "Middle East": 0.0,
+      "Africa": 0.0,
+      "Other": 0.0,
+      "unknown": 0.0
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2022,
+    "joint_wicsa_ecsa": false,
+    "total_papers": 15,
+    "counts": {
+      "North America": 0,
+      "W. Europe": 13,
+      "E. Europe": 1,
+      "Asia-Pacific": 1,
+      "Latin America": 1,
+      "Middle East": 0,
+      "Africa": 0,
+      "Other": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "North America": 0.0,
+      "W. Europe": 86.67,
+      "E. Europe": 6.67,
+      "Asia-Pacific": 6.67,
+      "Latin America": 6.67,
+      "Middle East": 0.0,
+      "Africa": 0.0,
+      "Other": 0.0,
+      "unknown": 0.0
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2023,
+    "joint_wicsa_ecsa": false,
+    "total_papers": 25,
+    "counts": {
+      "North America": 1,
+      "W. Europe": 21,
+      "E. Europe": 1,
+      "Asia-Pacific": 3,
+      "Latin America": 3,
+      "Middle East": 0,
+      "Africa": 0,
+      "Other": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "North America": 4.0,
+      "W. Europe": 84.0,
+      "E. Europe": 4.0,
+      "Asia-Pacific": 12.0,
+      "Latin America": 12.0,
+      "Middle East": 0.0,
+      "Africa": 0.0,
+      "Other": 0.0,
+      "unknown": 0.0
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2024,
+    "joint_wicsa_ecsa": false,
+    "total_papers": 27,
+    "counts": {
+      "North America": 3,
+      "W. Europe": 23,
+      "E. Europe": 0,
+      "Asia-Pacific": 2,
+      "Latin America": 4,
+      "Middle East": 2,
+      "Africa": 1,
+      "Other": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "North America": 11.11,
+      "W. Europe": 85.19,
+      "E. Europe": 0.0,
+      "Asia-Pacific": 7.41,
+      "Latin America": 14.81,
+      "Middle East": 7.41,
+      "Africa": 3.7,
+      "Other": 0.0,
+      "unknown": 0.0
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2025,
+    "joint_wicsa_ecsa": false,
+    "total_papers": 27,
+    "counts": {
+      "North America": 4,
+      "W. Europe": 22,
+      "E. Europe": 0,
+      "Asia-Pacific": 2,
+      "Latin America": 3,
+      "Middle East": 0,
+      "Africa": 1,
+      "Other": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "North America": 14.81,
+      "W. Europe": 81.48,
+      "E. Europe": 0.0,
+      "Asia-Pacific": 7.41,
+      "Latin America": 11.11,
+      "Middle East": 0.0,
+      "Africa": 3.7,
+      "Other": 0.0,
+      "unknown": 0.0
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2007,
+    "joint_wicsa_ecsa": false,
+    "total_papers": 43,
+    "counts": {
+      "North America": 12,
+      "W. Europe": 23,
+      "E. Europe": 1,
+      "Asia-Pacific": 9,
+      "Latin America": 1,
+      "Middle East": 0,
+      "Africa": 0,
+      "Other": 0,
+      "unknown": 2
+    },
+    "percentages": {
+      "North America": 27.91,
+      "W. Europe": 53.49,
+      "E. Europe": 2.33,
+      "Asia-Pacific": 20.93,
+      "Latin America": 2.33,
+      "Middle East": 0.0,
+      "Africa": 0.0,
+      "Other": 0.0,
+      "unknown": 4.65
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2008,
+    "joint_wicsa_ecsa": false,
+    "total_papers": 45,
+    "counts": {
+      "North America": 14,
+      "W. Europe": 23,
+      "E. Europe": 0,
+      "Asia-Pacific": 5,
+      "Latin America": 1,
+      "Middle East": 0,
+      "Africa": 0,
+      "Other": 0,
+      "unknown": 6
+    },
+    "percentages": {
+      "North America": 31.11,
+      "W. Europe": 51.11,
+      "E. Europe": 0.0,
+      "Asia-Pacific": 11.11,
+      "Latin America": 2.22,
+      "Middle East": 0.0,
+      "Africa": 0.0,
+      "Other": 0.0,
+      "unknown": 13.33
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2009,
+    "joint_wicsa_ecsa": true,
+    "total_papers": 53,
+    "counts": {
+      "North America": 11,
+      "W. Europe": 37,
+      "E. Europe": 0,
+      "Asia-Pacific": 5,
+      "Latin America": 9,
+      "Middle East": 1,
+      "Africa": 0,
+      "Other": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "North America": 20.75,
+      "W. Europe": 69.81,
+      "E. Europe": 0.0,
+      "Asia-Pacific": 9.43,
+      "Latin America": 16.98,
+      "Middle East": 1.89,
+      "Africa": 0.0,
+      "Other": 0.0,
+      "unknown": 0.0
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2011,
+    "joint_wicsa_ecsa": false,
+    "total_papers": 51,
+    "counts": {
+      "North America": 12,
+      "W. Europe": 26,
+      "E. Europe": 1,
+      "Asia-Pacific": 6,
+      "Latin America": 1,
+      "Middle East": 3,
+      "Africa": 0,
+      "Other": 0,
+      "unknown": 6
+    },
+    "percentages": {
+      "North America": 23.53,
+      "W. Europe": 50.98,
+      "E. Europe": 1.96,
+      "Asia-Pacific": 11.76,
+      "Latin America": 1.96,
+      "Middle East": 5.88,
+      "Africa": 0.0,
+      "Other": 0.0,
+      "unknown": 11.76
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2012,
+    "joint_wicsa_ecsa": true,
+    "total_papers": 48,
+    "counts": {
+      "North America": 10,
+      "W. Europe": 34,
+      "E. Europe": 2,
+      "Asia-Pacific": 6,
+      "Latin America": 1,
+      "Middle East": 1,
+      "Africa": 0,
+      "Other": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "North America": 20.83,
+      "W. Europe": 70.83,
+      "E. Europe": 4.17,
+      "Asia-Pacific": 12.5,
+      "Latin America": 2.08,
+      "Middle East": 2.08,
+      "Africa": 0.0,
+      "Other": 0.0,
+      "unknown": 0.0
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2014,
+    "joint_wicsa_ecsa": false,
+    "total_papers": 36,
+    "counts": {
+      "North America": 8,
+      "W. Europe": 27,
+      "E. Europe": 1,
+      "Asia-Pacific": 4,
+      "Latin America": 4,
+      "Middle East": 0,
+      "Africa": 1,
+      "Other": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "North America": 22.22,
+      "W. Europe": 75.0,
+      "E. Europe": 2.78,
+      "Asia-Pacific": 11.11,
+      "Latin America": 11.11,
+      "Middle East": 0.0,
+      "Africa": 2.78,
+      "Other": 0.0,
+      "unknown": 0.0
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2015,
+    "joint_wicsa_ecsa": false,
+    "total_papers": 21,
+    "counts": {
+      "North America": 3,
+      "W. Europe": 15,
+      "E. Europe": 0,
+      "Asia-Pacific": 1,
+      "Latin America": 0,
+      "Middle East": 0,
+      "Africa": 0,
+      "Other": 0,
+      "unknown": 2
+    },
+    "percentages": {
+      "North America": 14.29,
+      "W. Europe": 71.43,
+      "E. Europe": 0.0,
+      "Asia-Pacific": 4.76,
+      "Latin America": 0.0,
+      "Middle East": 0.0,
+      "Africa": 0.0,
+      "Other": 0.0,
+      "unknown": 9.52
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2016,
+    "joint_wicsa_ecsa": false,
+    "total_papers": 47,
+    "counts": {
+      "North America": 11,
+      "W. Europe": 35,
+      "E. Europe": 3,
+      "Asia-Pacific": 3,
+      "Latin America": 1,
+      "Middle East": 0,
+      "Africa": 0,
+      "Other": 0,
+      "unknown": 1
+    },
+    "percentages": {
+      "North America": 23.4,
+      "W. Europe": 74.47,
+      "E. Europe": 6.38,
+      "Asia-Pacific": 6.38,
+      "Latin America": 2.13,
+      "Middle East": 0.0,
+      "Africa": 0.0,
+      "Other": 0.0,
+      "unknown": 2.13
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2017,
+    "joint_wicsa_ecsa": false,
+    "total_papers": 34,
+    "counts": {
+      "North America": 8,
+      "W. Europe": 24,
+      "E. Europe": 2,
+      "Asia-Pacific": 6,
+      "Latin America": 0,
+      "Middle East": 0,
+      "Africa": 0,
+      "Other": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "North America": 23.53,
+      "W. Europe": 70.59,
+      "E. Europe": 5.88,
+      "Asia-Pacific": 17.65,
+      "Latin America": 0.0,
+      "Middle East": 0.0,
+      "Africa": 0.0,
+      "Other": 0.0,
+      "unknown": 0.0
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2018,
+    "joint_wicsa_ecsa": false,
+    "total_papers": 23,
+    "counts": {
+      "North America": 4,
+      "W. Europe": 17,
+      "E. Europe": 2,
+      "Asia-Pacific": 2,
+      "Latin America": 0,
+      "Middle East": 0,
+      "Africa": 0,
+      "Other": 0,
+      "unknown": 2
+    },
+    "percentages": {
+      "North America": 17.39,
+      "W. Europe": 73.91,
+      "E. Europe": 8.7,
+      "Asia-Pacific": 8.7,
+      "Latin America": 0.0,
+      "Middle East": 0.0,
+      "Africa": 0.0,
+      "Other": 0.0,
+      "unknown": 8.7
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2019,
+    "joint_wicsa_ecsa": false,
+    "total_papers": 22,
+    "counts": {
+      "North America": 1,
+      "W. Europe": 17,
+      "E. Europe": 1,
+      "Asia-Pacific": 4,
+      "Latin America": 0,
+      "Middle East": 0,
+      "Africa": 0,
+      "Other": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "North America": 4.55,
+      "W. Europe": 77.27,
+      "E. Europe": 4.55,
+      "Asia-Pacific": 18.18,
+      "Latin America": 0.0,
+      "Middle East": 0.0,
+      "Africa": 0.0,
+      "Other": 0.0,
+      "unknown": 0.0
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2020,
+    "joint_wicsa_ecsa": false,
+    "total_papers": 19,
+    "counts": {
+      "North America": 4,
+      "W. Europe": 11,
+      "E. Europe": 0,
+      "Asia-Pacific": 4,
+      "Latin America": 4,
+      "Middle East": 0,
+      "Africa": 0,
+      "Other": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "North America": 21.05,
+      "W. Europe": 57.89,
+      "E. Europe": 0.0,
+      "Asia-Pacific": 21.05,
+      "Latin America": 21.05,
+      "Middle East": 0.0,
+      "Africa": 0.0,
+      "Other": 0.0,
+      "unknown": 0.0
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2021,
+    "joint_wicsa_ecsa": false,
+    "total_papers": 16,
+    "counts": {
+      "North America": 5,
+      "W. Europe": 11,
+      "E. Europe": 1,
+      "Asia-Pacific": 2,
+      "Latin America": 0,
+      "Middle East": 0,
+      "Africa": 0,
+      "Other": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "North America": 31.25,
+      "W. Europe": 68.75,
+      "E. Europe": 6.25,
+      "Asia-Pacific": 12.5,
+      "Latin America": 0.0,
+      "Middle East": 0.0,
+      "Africa": 0.0,
+      "Other": 0.0,
+      "unknown": 0.0
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2022,
+    "joint_wicsa_ecsa": false,
+    "total_papers": 17,
+    "counts": {
+      "North America": 4,
+      "W. Europe": 10,
+      "E. Europe": 0,
+      "Asia-Pacific": 4,
+      "Latin America": 1,
+      "Middle East": 2,
+      "Africa": 0,
+      "Other": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "North America": 23.53,
+      "W. Europe": 58.82,
+      "E. Europe": 0.0,
+      "Asia-Pacific": 23.53,
+      "Latin America": 5.88,
+      "Middle East": 11.76,
+      "Africa": 0.0,
+      "Other": 0.0,
+      "unknown": 0.0
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2023,
+    "joint_wicsa_ecsa": false,
+    "total_papers": 16,
+    "counts": {
+      "North America": 0,
+      "W. Europe": 11,
+      "E. Europe": 0,
+      "Asia-Pacific": 3,
+      "Latin America": 3,
+      "Middle East": 0,
+      "Africa": 0,
+      "Other": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "North America": 0.0,
+      "W. Europe": 68.75,
+      "E. Europe": 0.0,
+      "Asia-Pacific": 18.75,
+      "Latin America": 18.75,
+      "Middle East": 0.0,
+      "Africa": 0.0,
+      "Other": 0.0,
+      "unknown": 0.0
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2024,
+    "joint_wicsa_ecsa": false,
+    "total_papers": 18,
+    "counts": {
+      "North America": 2,
+      "W. Europe": 15,
+      "E. Europe": 0,
+      "Asia-Pacific": 3,
+      "Latin America": 0,
+      "Middle East": 0,
+      "Africa": 0,
+      "Other": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "North America": 11.11,
+      "W. Europe": 83.33,
+      "E. Europe": 0.0,
+      "Asia-Pacific": 16.67,
+      "Latin America": 0.0,
+      "Middle East": 0.0,
+      "Africa": 0.0,
+      "Other": 0.0,
+      "unknown": 0.0
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2025,
+    "joint_wicsa_ecsa": false,
+    "total_papers": 28,
+    "counts": {
+      "North America": 3,
+      "W. Europe": 21,
+      "E. Europe": 1,
+      "Asia-Pacific": 5,
+      "Latin America": 2,
+      "Middle East": 1,
+      "Africa": 0,
+      "Other": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "North America": 10.71,
+      "W. Europe": 75.0,
+      "E. Europe": 3.57,
+      "Asia-Pacific": 17.86,
+      "Latin America": 7.14,
+      "Middle East": 3.57,
+      "Africa": 0.0,
+      "Other": 0.0,
+      "unknown": 0.0
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2007,
+    "joint_wicsa_ecsa": false,
+    "total_papers": 89,
+    "counts": {
+      "North America": 57,
+      "W. Europe": 26,
+      "E. Europe": 1,
+      "Asia-Pacific": 9,
+      "Latin America": 2,
+      "Middle East": 2,
+      "Africa": 0,
+      "Other": 1,
+      "unknown": 2
+    },
+    "percentages": {
+      "North America": 64.04,
+      "W. Europe": 29.21,
+      "E. Europe": 1.12,
+      "Asia-Pacific": 10.11,
+      "Latin America": 2.25,
+      "Middle East": 2.25,
+      "Africa": 0.0,
+      "Other": 1.12,
+      "unknown": 2.25
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2008,
+    "joint_wicsa_ecsa": false,
+    "total_papers": 103,
+    "counts": {
+      "North America": 52,
+      "W. Europe": 42,
+      "E. Europe": 2,
+      "Asia-Pacific": 7,
+      "Latin America": 4,
+      "Middle East": 0,
+      "Africa": 0,
+      "Other": 0,
+      "unknown": 4
+    },
+    "percentages": {
+      "North America": 50.49,
+      "W. Europe": 40.78,
+      "E. Europe": 1.94,
+      "Asia-Pacific": 6.8,
+      "Latin America": 3.88,
+      "Middle East": 0.0,
+      "Africa": 0.0,
+      "Other": 0.0,
+      "unknown": 3.88
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2009,
+    "joint_wicsa_ecsa": false,
+    "total_papers": 70,
+    "counts": {
+      "North America": 40,
+      "W. Europe": 26,
+      "E. Europe": 0,
+      "Asia-Pacific": 11,
+      "Latin America": 1,
+      "Middle East": 2,
+      "Africa": 0,
+      "Other": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "North America": 57.14,
+      "W. Europe": 37.14,
+      "E. Europe": 0.0,
+      "Asia-Pacific": 15.71,
+      "Latin America": 1.43,
+      "Middle East": 2.86,
+      "Africa": 0.0,
+      "Other": 0.0,
+      "unknown": 0.0
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2010,
+    "joint_wicsa_ecsa": false,
+    "total_papers": 65,
+    "counts": {
+      "North America": 37,
+      "W. Europe": 18,
+      "E. Europe": 0,
+      "Asia-Pacific": 12,
+      "Latin America": 1,
+      "Middle East": 1,
+      "Africa": 1,
+      "Other": 0,
+      "unknown": 2
+    },
+    "percentages": {
+      "North America": 56.92,
+      "W. Europe": 27.69,
+      "E. Europe": 0.0,
+      "Asia-Pacific": 18.46,
+      "Latin America": 1.54,
+      "Middle East": 1.54,
+      "Africa": 1.54,
+      "Other": 0.0,
+      "unknown": 3.08
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2011,
+    "joint_wicsa_ecsa": false,
+    "total_papers": 214,
+    "counts": {
+      "North America": 134,
+      "W. Europe": 81,
+      "E. Europe": 1,
+      "Asia-Pacific": 35,
+      "Latin America": 10,
+      "Middle East": 4,
+      "Africa": 1,
+      "Other": 0,
+      "unknown": 5
+    },
+    "percentages": {
+      "North America": 62.62,
+      "W. Europe": 37.85,
+      "E. Europe": 0.47,
+      "Asia-Pacific": 16.36,
+      "Latin America": 4.67,
+      "Middle East": 1.87,
+      "Africa": 0.47,
+      "Other": 0.0,
+      "unknown": 2.34
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2012,
+    "joint_wicsa_ecsa": false,
+    "total_papers": 239,
+    "counts": {
+      "North America": 111,
+      "W. Europe": 102,
+      "E. Europe": 2,
+      "Asia-Pacific": 38,
+      "Latin America": 7,
+      "Middle East": 5,
+      "Africa": 1,
+      "Other": 0,
+      "unknown": 6
+    },
+    "percentages": {
+      "North America": 46.44,
+      "W. Europe": 42.68,
+      "E. Europe": 0.84,
+      "Asia-Pacific": 15.9,
+      "Latin America": 2.93,
+      "Middle East": 2.09,
+      "Africa": 0.42,
+      "Other": 0.0,
+      "unknown": 2.51
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2013,
+    "joint_wicsa_ecsa": false,
+    "total_papers": 242,
+    "counts": {
+      "North America": 149,
+      "W. Europe": 97,
+      "E. Europe": 2,
+      "Asia-Pacific": 39,
+      "Latin America": 14,
+      "Middle East": 5,
+      "Africa": 3,
+      "Other": 0,
+      "unknown": 5
+    },
+    "percentages": {
+      "North America": 61.57,
+      "W. Europe": 40.08,
+      "E. Europe": 0.83,
+      "Asia-Pacific": 16.12,
+      "Latin America": 5.79,
+      "Middle East": 2.07,
+      "Africa": 1.24,
+      "Other": 0.0,
+      "unknown": 2.07
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2014,
+    "joint_wicsa_ecsa": false,
+    "total_papers": 99,
+    "counts": {
+      "North America": 63,
+      "W. Europe": 34,
+      "E. Europe": 0,
+      "Asia-Pacific": 21,
+      "Latin America": 6,
+      "Middle East": 1,
+      "Africa": 0,
+      "Other": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "North America": 63.64,
+      "W. Europe": 34.34,
+      "E. Europe": 0.0,
+      "Asia-Pacific": 21.21,
+      "Latin America": 6.06,
+      "Middle East": 1.01,
+      "Africa": 0.0,
+      "Other": 0.0,
+      "unknown": 0.0
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2015,
+    "joint_wicsa_ecsa": false,
+    "total_papers": 86,
+    "counts": {
+      "North America": 56,
+      "W. Europe": 29,
+      "E. Europe": 0,
+      "Asia-Pacific": 19,
+      "Latin America": 2,
+      "Middle East": 0,
+      "Africa": 0,
+      "Other": 0,
+      "unknown": 1
+    },
+    "percentages": {
+      "North America": 65.12,
+      "W. Europe": 33.72,
+      "E. Europe": 0.0,
+      "Asia-Pacific": 22.09,
+      "Latin America": 2.33,
+      "Middle East": 0.0,
+      "Africa": 0.0,
+      "Other": 0.0,
+      "unknown": 1.16
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2016,
+    "joint_wicsa_ecsa": false,
+    "total_papers": 101,
+    "counts": {
+      "North America": 57,
+      "W. Europe": 36,
+      "E. Europe": 1,
+      "Asia-Pacific": 31,
+      "Latin America": 5,
+      "Middle East": 2,
+      "Africa": 0,
+      "Other": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "North America": 56.44,
+      "W. Europe": 35.64,
+      "E. Europe": 0.99,
+      "Asia-Pacific": 30.69,
+      "Latin America": 4.95,
+      "Middle East": 1.98,
+      "Africa": 0.0,
+      "Other": 0.0,
+      "unknown": 0.0
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2017,
+    "joint_wicsa_ecsa": false,
+    "total_papers": 68,
+    "counts": {
+      "North America": 41,
+      "W. Europe": 23,
+      "E. Europe": 0,
+      "Asia-Pacific": 18,
+      "Latin America": 3,
+      "Middle East": 2,
+      "Africa": 1,
+      "Other": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "North America": 60.29,
+      "W. Europe": 33.82,
+      "E. Europe": 0.0,
+      "Asia-Pacific": 26.47,
+      "Latin America": 4.41,
+      "Middle East": 2.94,
+      "Africa": 1.47,
+      "Other": 0.0,
+      "unknown": 0.0
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2018,
+    "joint_wicsa_ecsa": false,
+    "total_papers": 153,
+    "counts": {
+      "North America": 83,
+      "W. Europe": 59,
+      "E. Europe": 4,
+      "Asia-Pacific": 40,
+      "Latin America": 14,
+      "Middle East": 3,
+      "Africa": 0,
+      "Other": 0,
+      "unknown": 1
+    },
+    "percentages": {
+      "North America": 54.25,
+      "W. Europe": 38.56,
+      "E. Europe": 2.61,
+      "Asia-Pacific": 26.14,
+      "Latin America": 9.15,
+      "Middle East": 1.96,
+      "Africa": 0.0,
+      "Other": 0.0,
+      "unknown": 0.65
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2019,
+    "joint_wicsa_ecsa": false,
+    "total_papers": 109,
+    "counts": {
+      "North America": 64,
+      "W. Europe": 34,
+      "E. Europe": 1,
+      "Asia-Pacific": 45,
+      "Latin America": 4,
+      "Middle East": 2,
+      "Africa": 0,
+      "Other": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "North America": 58.72,
+      "W. Europe": 31.19,
+      "E. Europe": 0.92,
+      "Asia-Pacific": 41.28,
+      "Latin America": 3.67,
+      "Middle East": 1.83,
+      "Africa": 0.0,
+      "Other": 0.0,
+      "unknown": 0.0
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2020,
+    "joint_wicsa_ecsa": false,
+    "total_papers": 129,
+    "counts": {
+      "North America": 67,
+      "W. Europe": 43,
+      "E. Europe": 1,
+      "Asia-Pacific": 54,
+      "Latin America": 3,
+      "Middle East": 1,
+      "Africa": 0,
+      "Other": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "North America": 51.94,
+      "W. Europe": 33.33,
+      "E. Europe": 0.78,
+      "Asia-Pacific": 41.86,
+      "Latin America": 2.33,
+      "Middle East": 0.78,
+      "Africa": 0.0,
+      "Other": 0.0,
+      "unknown": 0.0
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2021,
+    "joint_wicsa_ecsa": false,
+    "total_papers": 138,
+    "counts": {
+      "North America": 74,
+      "W. Europe": 45,
+      "E. Europe": 0,
+      "Asia-Pacific": 53,
+      "Latin America": 6,
+      "Middle East": 2,
+      "Africa": 0,
+      "Other": 0,
+      "unknown": 1
+    },
+    "percentages": {
+      "North America": 53.62,
+      "W. Europe": 32.61,
+      "E. Europe": 0.0,
+      "Asia-Pacific": 38.41,
+      "Latin America": 4.35,
+      "Middle East": 1.45,
+      "Africa": 0.0,
+      "Other": 0.0,
+      "unknown": 0.72
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2022,
+    "joint_wicsa_ecsa": false,
+    "total_papers": 199,
+    "counts": {
+      "North America": 107,
+      "W. Europe": 44,
+      "E. Europe": 1,
+      "Asia-Pacific": 109,
+      "Latin America": 2,
+      "Middle East": 1,
+      "Africa": 0,
+      "Other": 0,
+      "unknown": 3
+    },
+    "percentages": {
+      "North America": 53.77,
+      "W. Europe": 22.11,
+      "E. Europe": 0.5,
+      "Asia-Pacific": 54.77,
+      "Latin America": 1.01,
+      "Middle East": 0.5,
+      "Africa": 0.0,
+      "Other": 0.0,
+      "unknown": 1.51
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2023,
+    "joint_wicsa_ecsa": false,
+    "total_papers": 211,
+    "counts": {
+      "North America": 97,
+      "W. Europe": 47,
+      "E. Europe": 0,
+      "Asia-Pacific": 114,
+      "Latin America": 3,
+      "Middle East": 4,
+      "Africa": 0,
+      "Other": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "North America": 45.97,
+      "W. Europe": 22.27,
+      "E. Europe": 0.0,
+      "Asia-Pacific": 54.03,
+      "Latin America": 1.42,
+      "Middle East": 1.9,
+      "Africa": 0.0,
+      "Other": 0.0,
+      "unknown": 0.0
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2024,
+    "joint_wicsa_ecsa": false,
+    "total_papers": 237,
+    "counts": {
+      "North America": 101,
+      "W. Europe": 51,
+      "E. Europe": 0,
+      "Asia-Pacific": 134,
+      "Latin America": 3,
+      "Middle East": 2,
+      "Africa": 1,
+      "Other": 0,
+      "unknown": 1
+    },
+    "percentages": {
+      "North America": 42.62,
+      "W. Europe": 21.52,
+      "E. Europe": 0.0,
+      "Asia-Pacific": 56.54,
+      "Latin America": 1.27,
+      "Middle East": 0.84,
+      "Africa": 0.42,
+      "Other": 0.0,
+      "unknown": 0.42
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2025,
+    "joint_wicsa_ecsa": false,
+    "total_papers": 245,
+    "counts": {
+      "North America": 108,
+      "W. Europe": 50,
+      "E. Europe": 0,
+      "Asia-Pacific": 126,
+      "Latin America": 3,
+      "Middle East": 1,
+      "Africa": 0,
+      "Other": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "North America": 44.08,
+      "W. Europe": 20.41,
+      "E. Europe": 0.0,
+      "Asia-Pacific": 51.43,
+      "Latin America": 1.22,
+      "Middle East": 0.41,
+      "Africa": 0.0,
+      "Other": 0.0,
+      "unknown": 0.0
+    }
+  }
+]

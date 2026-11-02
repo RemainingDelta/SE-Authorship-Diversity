@@ -1,0 +1,5266 @@
+[
+  {
+    "venue": "ECSA",
+    "year": 2007,
+    "joint_wicsa_ecsa": false,
+    "region": "Africa",
+    "counts": {
+      "female-presenting": 2,
+      "male-presenting": 1,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 66.67,
+      "male-presenting": 33.33
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2007,
+    "joint_wicsa_ecsa": false,
+    "region": "Asia-Pacific",
+    "counts": {
+      "female-presenting": 1,
+      "male-presenting": 2,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 33.33,
+      "male-presenting": 66.67
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2007,
+    "joint_wicsa_ecsa": false,
+    "region": "E. Europe",
+    "counts": {
+      "female-presenting": 0,
+      "male-presenting": 1,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 0.0,
+      "male-presenting": 100.0
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2007,
+    "joint_wicsa_ecsa": false,
+    "region": "Latin America",
+    "counts": {
+      "female-presenting": 1,
+      "male-presenting": 2,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 33.33,
+      "male-presenting": 66.67
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2007,
+    "joint_wicsa_ecsa": false,
+    "region": "North America",
+    "counts": {
+      "female-presenting": 0,
+      "male-presenting": 3,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 0.0,
+      "male-presenting": 100.0
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2007,
+    "joint_wicsa_ecsa": false,
+    "region": "W. Europe",
+    "counts": {
+      "female-presenting": 23,
+      "male-presenting": 69,
+      "unclassified": 3,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 25.0,
+      "male-presenting": 75.0
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2007,
+    "joint_wicsa_ecsa": false,
+    "region": "unknown",
+    "counts": {
+      "female-presenting": 2,
+      "male-presenting": 5,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 28.57,
+      "male-presenting": 71.43
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2008,
+    "joint_wicsa_ecsa": false,
+    "region": "Asia-Pacific",
+    "counts": {
+      "female-presenting": 1,
+      "male-presenting": 2,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 33.33,
+      "male-presenting": 66.67
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2008,
+    "joint_wicsa_ecsa": false,
+    "region": "E. Europe",
+    "counts": {
+      "female-presenting": 0,
+      "male-presenting": 2,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 0.0,
+      "male-presenting": 100.0
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2008,
+    "joint_wicsa_ecsa": false,
+    "region": "Latin America",
+    "counts": {
+      "female-presenting": 4,
+      "male-presenting": 9,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 30.77,
+      "male-presenting": 69.23
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2008,
+    "joint_wicsa_ecsa": false,
+    "region": "North America",
+    "counts": {
+      "female-presenting": 0,
+      "male-presenting": 8,
+      "unclassified": 2,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 0.0,
+      "male-presenting": 100.0
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2008,
+    "joint_wicsa_ecsa": false,
+    "region": "Other",
+    "counts": {
+      "female-presenting": 1,
+      "male-presenting": 5,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 16.67,
+      "male-presenting": 83.33
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2008,
+    "joint_wicsa_ecsa": false,
+    "region": "W. Europe",
+    "counts": {
+      "female-presenting": 11,
+      "male-presenting": 53,
+      "unclassified": 3,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 17.19,
+      "male-presenting": 82.81
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2008,
+    "joint_wicsa_ecsa": false,
+    "region": "unknown",
+    "counts": {
+      "female-presenting": 1,
+      "male-presenting": 3,
+      "unclassified": 0,
+      "unknown": 1
+    },
+    "percentages": {
+      "female-presenting": 25.0,
+      "male-presenting": 75.0
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2010,
+    "joint_wicsa_ecsa": false,
+    "region": "Africa",
+    "counts": {
+      "female-presenting": 1,
+      "male-presenting": 7,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 12.5,
+      "male-presenting": 87.5
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2010,
+    "joint_wicsa_ecsa": false,
+    "region": "Asia-Pacific",
+    "counts": {
+      "female-presenting": 0,
+      "male-presenting": 7,
+      "unclassified": 1,
+      "unknown": 1
+    },
+    "percentages": {
+      "female-presenting": 0.0,
+      "male-presenting": 100.0
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2010,
+    "joint_wicsa_ecsa": false,
+    "region": "E. Europe",
+    "counts": {
+      "female-presenting": 0,
+      "male-presenting": 2,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 0.0,
+      "male-presenting": 100.0
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2010,
+    "joint_wicsa_ecsa": false,
+    "region": "Latin America",
+    "counts": {
+      "female-presenting": 6,
+      "male-presenting": 8,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 42.86,
+      "male-presenting": 57.14
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2010,
+    "joint_wicsa_ecsa": false,
+    "region": "North America",
+    "counts": {
+      "female-presenting": 0,
+      "male-presenting": 6,
+      "unclassified": 1,
+      "unknown": 3
+    },
+    "percentages": {
+      "female-presenting": 0.0,
+      "male-presenting": 100.0
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2010,
+    "joint_wicsa_ecsa": false,
+    "region": "W. Europe",
+    "counts": {
+      "female-presenting": 15,
+      "male-presenting": 78,
+      "unclassified": 6,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 16.13,
+      "male-presenting": 83.87
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2010,
+    "joint_wicsa_ecsa": false,
+    "region": "unknown",
+    "counts": {
+      "female-presenting": 2,
+      "male-presenting": 7,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 22.22,
+      "male-presenting": 77.78
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2011,
+    "joint_wicsa_ecsa": false,
+    "region": "Africa",
+    "counts": {
+      "female-presenting": 1,
+      "male-presenting": 3,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 25.0,
+      "male-presenting": 75.0
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2011,
+    "joint_wicsa_ecsa": false,
+    "region": "E. Europe",
+    "counts": {
+      "female-presenting": 0,
+      "male-presenting": 5,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 0.0,
+      "male-presenting": 100.0
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2011,
+    "joint_wicsa_ecsa": false,
+    "region": "Latin America",
+    "counts": {
+      "female-presenting": 6,
+      "male-presenting": 7,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 46.15,
+      "male-presenting": 53.85
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2011,
+    "joint_wicsa_ecsa": false,
+    "region": "Middle East",
+    "counts": {
+      "female-presenting": 1,
+      "male-presenting": 6,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 14.29,
+      "male-presenting": 85.71
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2011,
+    "joint_wicsa_ecsa": false,
+    "region": "North America",
+    "counts": {
+      "female-presenting": 1,
+      "male-presenting": 8,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 11.11,
+      "male-presenting": 88.89
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2011,
+    "joint_wicsa_ecsa": false,
+    "region": "W. Europe",
+    "counts": {
+      "female-presenting": 18,
+      "male-presenting": 59,
+      "unclassified": 4,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 23.38,
+      "male-presenting": 76.62
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2011,
+    "joint_wicsa_ecsa": false,
+    "region": "unknown",
+    "counts": {
+      "female-presenting": 2,
+      "male-presenting": 11,
+      "unclassified": 1,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 15.38,
+      "male-presenting": 84.62
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2013,
+    "joint_wicsa_ecsa": false,
+    "region": "Africa",
+    "counts": {
+      "female-presenting": 3,
+      "male-presenting": 4,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 42.86,
+      "male-presenting": 57.14
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2013,
+    "joint_wicsa_ecsa": false,
+    "region": "Asia-Pacific",
+    "counts": {
+      "female-presenting": 0,
+      "male-presenting": 2,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 0.0,
+      "male-presenting": 100.0
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2013,
+    "joint_wicsa_ecsa": false,
+    "region": "Latin America",
+    "counts": {
+      "female-presenting": 3,
+      "male-presenting": 5,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 37.5,
+      "male-presenting": 62.5
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2013,
+    "joint_wicsa_ecsa": false,
+    "region": "North America",
+    "counts": {
+      "female-presenting": 0,
+      "male-presenting": 1,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 0.0,
+      "male-presenting": 100.0
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2013,
+    "joint_wicsa_ecsa": false,
+    "region": "W. Europe",
+    "counts": {
+      "female-presenting": 13,
+      "male-presenting": 60,
+      "unclassified": 2,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 17.81,
+      "male-presenting": 82.19
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2013,
+    "joint_wicsa_ecsa": false,
+    "region": "unknown",
+    "counts": {
+      "female-presenting": 3,
+      "male-presenting": 2,
+      "unclassified": 1,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 60.0,
+      "male-presenting": 40.0
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2014,
+    "joint_wicsa_ecsa": false,
+    "region": "Asia-Pacific",
+    "counts": {
+      "female-presenting": 2,
+      "male-presenting": 4,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 33.33,
+      "male-presenting": 66.67
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2014,
+    "joint_wicsa_ecsa": false,
+    "region": "E. Europe",
+    "counts": {
+      "female-presenting": 0,
+      "male-presenting": 7,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 0.0,
+      "male-presenting": 100.0
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2014,
+    "joint_wicsa_ecsa": false,
+    "region": "Latin America",
+    "counts": {
+      "female-presenting": 3,
+      "male-presenting": 4,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 42.86,
+      "male-presenting": 57.14
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2014,
+    "joint_wicsa_ecsa": false,
+    "region": "Middle East",
+    "counts": {
+      "female-presenting": 2,
+      "male-presenting": 2,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 50.0,
+      "male-presenting": 50.0
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2014,
+    "joint_wicsa_ecsa": false,
+    "region": "North America",
+    "counts": {
+      "female-presenting": 2,
+      "male-presenting": 4,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 33.33,
+      "male-presenting": 66.67
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2014,
+    "joint_wicsa_ecsa": false,
+    "region": "W. Europe",
+    "counts": {
+      "female-presenting": 12,
+      "male-presenting": 52,
+      "unclassified": 2,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 18.75,
+      "male-presenting": 81.25
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2014,
+    "joint_wicsa_ecsa": false,
+    "region": "unknown",
+    "counts": {
+      "female-presenting": 3,
+      "male-presenting": 8,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 27.27,
+      "male-presenting": 72.73
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2015,
+    "joint_wicsa_ecsa": false,
+    "region": "Africa",
+    "counts": {
+      "female-presenting": 1,
+      "male-presenting": 1,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 50.0,
+      "male-presenting": 50.0
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2015,
+    "joint_wicsa_ecsa": false,
+    "region": "Asia-Pacific",
+    "counts": {
+      "female-presenting": 1,
+      "male-presenting": 8,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 11.11,
+      "male-presenting": 88.89
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2015,
+    "joint_wicsa_ecsa": false,
+    "region": "E. Europe",
+    "counts": {
+      "female-presenting": 0,
+      "male-presenting": 6,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 0.0,
+      "male-presenting": 100.0
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2015,
+    "joint_wicsa_ecsa": false,
+    "region": "Latin America",
+    "counts": {
+      "female-presenting": 2,
+      "male-presenting": 3,
+      "unclassified": 1,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 40.0,
+      "male-presenting": 60.0
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2015,
+    "joint_wicsa_ecsa": false,
+    "region": "North America",
+    "counts": {
+      "female-presenting": 4,
+      "male-presenting": 4,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 50.0,
+      "male-presenting": 50.0
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2015,
+    "joint_wicsa_ecsa": false,
+    "region": "W. Europe",
+    "counts": {
+      "female-presenting": 7,
+      "male-presenting": 47,
+      "unclassified": 3,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 12.96,
+      "male-presenting": 87.04
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2015,
+    "joint_wicsa_ecsa": false,
+    "region": "unknown",
+    "counts": {
+      "female-presenting": 2,
+      "male-presenting": 2,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 50.0,
+      "male-presenting": 50.0
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2016,
+    "joint_wicsa_ecsa": false,
+    "region": "Asia-Pacific",
+    "counts": {
+      "female-presenting": 0,
+      "male-presenting": 4,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 0.0,
+      "male-presenting": 100.0
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2016,
+    "joint_wicsa_ecsa": false,
+    "region": "E. Europe",
+    "counts": {
+      "female-presenting": 0,
+      "male-presenting": 4,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 0.0,
+      "male-presenting": 100.0
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2016,
+    "joint_wicsa_ecsa": false,
+    "region": "Latin America",
+    "counts": {
+      "female-presenting": 0,
+      "male-presenting": 1,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 0.0,
+      "male-presenting": 100.0
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2016,
+    "joint_wicsa_ecsa": false,
+    "region": "Middle East",
+    "counts": {
+      "female-presenting": 0,
+      "male-presenting": 3,
+      "unclassified": 1,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 0.0,
+      "male-presenting": 100.0
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2016,
+    "joint_wicsa_ecsa": false,
+    "region": "North America",
+    "counts": {
+      "female-presenting": 2,
+      "male-presenting": 9,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 18.18,
+      "male-presenting": 81.82
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2016,
+    "joint_wicsa_ecsa": false,
+    "region": "W. Europe",
+    "counts": {
+      "female-presenting": 13,
+      "male-presenting": 50,
+      "unclassified": 2,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 20.63,
+      "male-presenting": 79.37
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2016,
+    "joint_wicsa_ecsa": false,
+    "region": "unknown",
+    "counts": {
+      "female-presenting": 3,
+      "male-presenting": 6,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 33.33,
+      "male-presenting": 66.67
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2017,
+    "joint_wicsa_ecsa": false,
+    "region": "Asia-Pacific",
+    "counts": {
+      "female-presenting": 0,
+      "male-presenting": 1,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 0.0,
+      "male-presenting": 100.0
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2017,
+    "joint_wicsa_ecsa": false,
+    "region": "E. Europe",
+    "counts": {
+      "female-presenting": 1,
+      "male-presenting": 2,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 33.33,
+      "male-presenting": 66.67
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2017,
+    "joint_wicsa_ecsa": false,
+    "region": "Latin America",
+    "counts": {
+      "female-presenting": 1,
+      "male-presenting": 1,
+      "unclassified": 1,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 50.0,
+      "male-presenting": 50.0
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2017,
+    "joint_wicsa_ecsa": false,
+    "region": "Middle East",
+    "counts": {
+      "female-presenting": 0,
+      "male-presenting": 1,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 0.0,
+      "male-presenting": 100.0
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2017,
+    "joint_wicsa_ecsa": false,
+    "region": "North America",
+    "counts": {
+      "female-presenting": 0,
+      "male-presenting": 3,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 0.0,
+      "male-presenting": 100.0
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2017,
+    "joint_wicsa_ecsa": false,
+    "region": "W. Europe",
+    "counts": {
+      "female-presenting": 4,
+      "male-presenting": 28,
+      "unclassified": 3,
+      "unknown": 1
+    },
+    "percentages": {
+      "female-presenting": 12.5,
+      "male-presenting": 87.5
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2017,
+    "joint_wicsa_ecsa": false,
+    "region": "unknown",
+    "counts": {
+      "female-presenting": 0,
+      "male-presenting": 5,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 0.0,
+      "male-presenting": 100.0
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2018,
+    "joint_wicsa_ecsa": false,
+    "region": "Asia-Pacific",
+    "counts": {
+      "female-presenting": 0,
+      "male-presenting": 7,
+      "unclassified": 1,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 0.0,
+      "male-presenting": 100.0
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2018,
+    "joint_wicsa_ecsa": false,
+    "region": "E. Europe",
+    "counts": {
+      "female-presenting": 0,
+      "male-presenting": 1,
+      "unclassified": 1,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 0.0,
+      "male-presenting": 100.0
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2018,
+    "joint_wicsa_ecsa": false,
+    "region": "Latin America",
+    "counts": {
+      "female-presenting": 1,
+      "male-presenting": 6,
+      "unclassified": 1,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 14.29,
+      "male-presenting": 85.71
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2018,
+    "joint_wicsa_ecsa": false,
+    "region": "North America",
+    "counts": {
+      "female-presenting": 0,
+      "male-presenting": 1,
+      "unclassified": 2,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 0.0,
+      "male-presenting": 100.0
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2018,
+    "joint_wicsa_ecsa": false,
+    "region": "W. Europe",
+    "counts": {
+      "female-presenting": 11,
+      "male-presenting": 40,
+      "unclassified": 2,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 21.57,
+      "male-presenting": 78.43
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2018,
+    "joint_wicsa_ecsa": false,
+    "region": "unknown",
+    "counts": {
+      "female-presenting": 1,
+      "male-presenting": 9,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 10.0,
+      "male-presenting": 90.0
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2019,
+    "joint_wicsa_ecsa": false,
+    "region": "Asia-Pacific",
+    "counts": {
+      "female-presenting": 1,
+      "male-presenting": 4,
+      "unclassified": 1,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 20.0,
+      "male-presenting": 80.0
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2019,
+    "joint_wicsa_ecsa": false,
+    "region": "Latin America",
+    "counts": {
+      "female-presenting": 0,
+      "male-presenting": 4,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 0.0,
+      "male-presenting": 100.0
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2019,
+    "joint_wicsa_ecsa": false,
+    "region": "Middle East",
+    "counts": {
+      "female-presenting": 0,
+      "male-presenting": 1,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 0.0,
+      "male-presenting": 100.0
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2019,
+    "joint_wicsa_ecsa": false,
+    "region": "North America",
+    "counts": {
+      "female-presenting": 0,
+      "male-presenting": 1,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 0.0,
+      "male-presenting": 100.0
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2019,
+    "joint_wicsa_ecsa": false,
+    "region": "W. Europe",
+    "counts": {
+      "female-presenting": 12,
+      "male-presenting": 32,
+      "unclassified": 1,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 27.27,
+      "male-presenting": 72.73
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2019,
+    "joint_wicsa_ecsa": false,
+    "region": "unknown",
+    "counts": {
+      "female-presenting": 2,
+      "male-presenting": 2,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 50.0,
+      "male-presenting": 50.0
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2020,
+    "joint_wicsa_ecsa": false,
+    "region": "Asia-Pacific",
+    "counts": {
+      "female-presenting": 5,
+      "male-presenting": 2,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 71.43,
+      "male-presenting": 28.57
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2020,
+    "joint_wicsa_ecsa": false,
+    "region": "Latin America",
+    "counts": {
+      "female-presenting": 1,
+      "male-presenting": 8,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 11.11,
+      "male-presenting": 88.89
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2020,
+    "joint_wicsa_ecsa": false,
+    "region": "North America",
+    "counts": {
+      "female-presenting": 0,
+      "male-presenting": 3,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 0.0,
+      "male-presenting": 100.0
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2020,
+    "joint_wicsa_ecsa": false,
+    "region": "W. Europe",
+    "counts": {
+      "female-presenting": 11,
+      "male-presenting": 44,
+      "unclassified": 2,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 20.0,
+      "male-presenting": 80.0
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2020,
+    "joint_wicsa_ecsa": false,
+    "region": "unknown",
+    "counts": {
+      "female-presenting": 1,
+      "male-presenting": 4,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 20.0,
+      "male-presenting": 80.0
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2021,
+    "joint_wicsa_ecsa": false,
+    "region": "Asia-Pacific",
+    "counts": {
+      "female-presenting": 1,
+      "male-presenting": 4,
+      "unclassified": 3,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 20.0,
+      "male-presenting": 80.0
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2021,
+    "joint_wicsa_ecsa": false,
+    "region": "Latin America",
+    "counts": {
+      "female-presenting": 0,
+      "male-presenting": 1,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 0.0,
+      "male-presenting": 100.0
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2021,
+    "joint_wicsa_ecsa": false,
+    "region": "North America",
+    "counts": {
+      "female-presenting": 1,
+      "male-presenting": 2,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 33.33,
+      "male-presenting": 66.67
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2021,
+    "joint_wicsa_ecsa": false,
+    "region": "W. Europe",
+    "counts": {
+      "female-presenting": 14,
+      "male-presenting": 52,
+      "unclassified": 2,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 21.21,
+      "male-presenting": 78.79
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2021,
+    "joint_wicsa_ecsa": false,
+    "region": "unknown",
+    "counts": {
+      "female-presenting": 1,
+      "male-presenting": 4,
+      "unclassified": 1,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 20.0,
+      "male-presenting": 80.0
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2022,
+    "joint_wicsa_ecsa": false,
+    "region": "Asia-Pacific",
+    "counts": {
+      "female-presenting": 2,
+      "male-presenting": 4,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 33.33,
+      "male-presenting": 66.67
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2022,
+    "joint_wicsa_ecsa": false,
+    "region": "E. Europe",
+    "counts": {
+      "female-presenting": 3,
+      "male-presenting": 2,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 60.0,
+      "male-presenting": 40.0
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2022,
+    "joint_wicsa_ecsa": false,
+    "region": "Latin America",
+    "counts": {
+      "female-presenting": 0,
+      "male-presenting": 2,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 0.0,
+      "male-presenting": 100.0
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2022,
+    "joint_wicsa_ecsa": false,
+    "region": "W. Europe",
+    "counts": {
+      "female-presenting": 5,
+      "male-presenting": 29,
+      "unclassified": 1,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 14.71,
+      "male-presenting": 85.29
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2022,
+    "joint_wicsa_ecsa": false,
+    "region": "unknown",
+    "counts": {
+      "female-presenting": 0,
+      "male-presenting": 1,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 0.0,
+      "male-presenting": 100.0
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2023,
+    "joint_wicsa_ecsa": false,
+    "region": "Asia-Pacific",
+    "counts": {
+      "female-presenting": 2,
+      "male-presenting": 8,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 20.0,
+      "male-presenting": 80.0
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2023,
+    "joint_wicsa_ecsa": false,
+    "region": "E. Europe",
+    "counts": {
+      "female-presenting": 2,
+      "male-presenting": 2,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 50.0,
+      "male-presenting": 50.0
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2023,
+    "joint_wicsa_ecsa": false,
+    "region": "Latin America",
+    "counts": {
+      "female-presenting": 1,
+      "male-presenting": 2,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 33.33,
+      "male-presenting": 66.67
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2023,
+    "joint_wicsa_ecsa": false,
+    "region": "North America",
+    "counts": {
+      "female-presenting": 0,
+      "male-presenting": 1,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 0.0,
+      "male-presenting": 100.0
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2023,
+    "joint_wicsa_ecsa": false,
+    "region": "W. Europe",
+    "counts": {
+      "female-presenting": 15,
+      "male-presenting": 45,
+      "unclassified": 2,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 25.0,
+      "male-presenting": 75.0
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2023,
+    "joint_wicsa_ecsa": false,
+    "region": "unknown",
+    "counts": {
+      "female-presenting": 0,
+      "male-presenting": 3,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 0.0,
+      "male-presenting": 100.0
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2024,
+    "joint_wicsa_ecsa": false,
+    "region": "Africa",
+    "counts": {
+      "female-presenting": 1,
+      "male-presenting": 1,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 50.0,
+      "male-presenting": 50.0
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2024,
+    "joint_wicsa_ecsa": false,
+    "region": "Asia-Pacific",
+    "counts": {
+      "female-presenting": 1,
+      "male-presenting": 2,
+      "unclassified": 1,
+      "unknown": 1
+    },
+    "percentages": {
+      "female-presenting": 33.33,
+      "male-presenting": 66.67
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2024,
+    "joint_wicsa_ecsa": false,
+    "region": "Latin America",
+    "counts": {
+      "female-presenting": 2,
+      "male-presenting": 3,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 40.0,
+      "male-presenting": 60.0
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2024,
+    "joint_wicsa_ecsa": false,
+    "region": "Middle East",
+    "counts": {
+      "female-presenting": 0,
+      "male-presenting": 2,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 0.0,
+      "male-presenting": 100.0
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2024,
+    "joint_wicsa_ecsa": false,
+    "region": "North America",
+    "counts": {
+      "female-presenting": 0,
+      "male-presenting": 6,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 0.0,
+      "male-presenting": 100.0
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2024,
+    "joint_wicsa_ecsa": false,
+    "region": "W. Europe",
+    "counts": {
+      "female-presenting": 20,
+      "male-presenting": 43,
+      "unclassified": 1,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 31.75,
+      "male-presenting": 68.25
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2024,
+    "joint_wicsa_ecsa": false,
+    "region": "unknown",
+    "counts": {
+      "female-presenting": 1,
+      "male-presenting": 4,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 20.0,
+      "male-presenting": 80.0
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2025,
+    "joint_wicsa_ecsa": false,
+    "region": "Africa",
+    "counts": {
+      "female-presenting": 0,
+      "male-presenting": 1,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 0.0,
+      "male-presenting": 100.0
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2025,
+    "joint_wicsa_ecsa": false,
+    "region": "Asia-Pacific",
+    "counts": {
+      "female-presenting": 1,
+      "male-presenting": 4,
+      "unclassified": 1,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 20.0,
+      "male-presenting": 80.0
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2025,
+    "joint_wicsa_ecsa": false,
+    "region": "Latin America",
+    "counts": {
+      "female-presenting": 1,
+      "male-presenting": 4,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 20.0,
+      "male-presenting": 80.0
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2025,
+    "joint_wicsa_ecsa": false,
+    "region": "North America",
+    "counts": {
+      "female-presenting": 0,
+      "male-presenting": 4,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 0.0,
+      "male-presenting": 100.0
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2025,
+    "joint_wicsa_ecsa": false,
+    "region": "W. Europe",
+    "counts": {
+      "female-presenting": 17,
+      "male-presenting": 60,
+      "unclassified": 5,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 22.08,
+      "male-presenting": 77.92
+    }
+  },
+  {
+    "venue": "ECSA",
+    "year": 2025,
+    "joint_wicsa_ecsa": false,
+    "region": "unknown",
+    "counts": {
+      "female-presenting": 1,
+      "male-presenting": 9,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 10.0,
+      "male-presenting": 90.0
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2007,
+    "joint_wicsa_ecsa": false,
+    "region": "Asia-Pacific",
+    "counts": {
+      "female-presenting": 2,
+      "male-presenting": 12,
+      "unclassified": 1,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 14.29,
+      "male-presenting": 85.71
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2007,
+    "joint_wicsa_ecsa": false,
+    "region": "E. Europe",
+    "counts": {
+      "female-presenting": 0,
+      "male-presenting": 2,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 0.0,
+      "male-presenting": 100.0
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2007,
+    "joint_wicsa_ecsa": false,
+    "region": "Latin America",
+    "counts": {
+      "female-presenting": 0,
+      "male-presenting": 6,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 0.0,
+      "male-presenting": 100.0
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2007,
+    "joint_wicsa_ecsa": false,
+    "region": "North America",
+    "counts": {
+      "female-presenting": 0,
+      "male-presenting": 26,
+      "unclassified": 2,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 0.0,
+      "male-presenting": 100.0
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2007,
+    "joint_wicsa_ecsa": false,
+    "region": "W. Europe",
+    "counts": {
+      "female-presenting": 9,
+      "male-presenting": 42,
+      "unclassified": 1,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 17.65,
+      "male-presenting": 82.35
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2007,
+    "joint_wicsa_ecsa": false,
+    "region": "unknown",
+    "counts": {
+      "female-presenting": 3,
+      "male-presenting": 6,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 33.33,
+      "male-presenting": 66.67
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2008,
+    "joint_wicsa_ecsa": false,
+    "region": "Asia-Pacific",
+    "counts": {
+      "female-presenting": 5,
+      "male-presenting": 12,
+      "unclassified": 2,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 29.41,
+      "male-presenting": 70.59
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2008,
+    "joint_wicsa_ecsa": false,
+    "region": "Latin America",
+    "counts": {
+      "female-presenting": 1,
+      "male-presenting": 0,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 100.0,
+      "male-presenting": 0.0
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2008,
+    "joint_wicsa_ecsa": false,
+    "region": "North America",
+    "counts": {
+      "female-presenting": 0,
+      "male-presenting": 32,
+      "unclassified": 5,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 0.0,
+      "male-presenting": 100.0
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2008,
+    "joint_wicsa_ecsa": false,
+    "region": "W. Europe",
+    "counts": {
+      "female-presenting": 7,
+      "male-presenting": 46,
+      "unclassified": 2,
+      "unknown": 1
+    },
+    "percentages": {
+      "female-presenting": 13.21,
+      "male-presenting": 86.79
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2008,
+    "joint_wicsa_ecsa": false,
+    "region": "unknown",
+    "counts": {
+      "female-presenting": 4,
+      "male-presenting": 11,
+      "unclassified": 1,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 26.67,
+      "male-presenting": 73.33
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2009,
+    "joint_wicsa_ecsa": true,
+    "region": "Asia-Pacific",
+    "counts": {
+      "female-presenting": 0,
+      "male-presenting": 7,
+      "unclassified": 7,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 0.0,
+      "male-presenting": 100.0
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2009,
+    "joint_wicsa_ecsa": true,
+    "region": "Latin America",
+    "counts": {
+      "female-presenting": 6,
+      "male-presenting": 17,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 26.09,
+      "male-presenting": 73.91
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2009,
+    "joint_wicsa_ecsa": true,
+    "region": "Middle East",
+    "counts": {
+      "female-presenting": 0,
+      "male-presenting": 2,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 0.0,
+      "male-presenting": 100.0
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2009,
+    "joint_wicsa_ecsa": true,
+    "region": "North America",
+    "counts": {
+      "female-presenting": 2,
+      "male-presenting": 23,
+      "unclassified": 2,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 8.0,
+      "male-presenting": 92.0
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2009,
+    "joint_wicsa_ecsa": true,
+    "region": "W. Europe",
+    "counts": {
+      "female-presenting": 28,
+      "male-presenting": 62,
+      "unclassified": 3,
+      "unknown": 1
+    },
+    "percentages": {
+      "female-presenting": 31.11,
+      "male-presenting": 68.89
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2009,
+    "joint_wicsa_ecsa": true,
+    "region": "unknown",
+    "counts": {
+      "female-presenting": 5,
+      "male-presenting": 10,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 33.33,
+      "male-presenting": 66.67
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2011,
+    "joint_wicsa_ecsa": false,
+    "region": "Asia-Pacific",
+    "counts": {
+      "female-presenting": 4,
+      "male-presenting": 9,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 30.77,
+      "male-presenting": 69.23
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2011,
+    "joint_wicsa_ecsa": false,
+    "region": "E. Europe",
+    "counts": {
+      "female-presenting": 1,
+      "male-presenting": 0,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 100.0,
+      "male-presenting": 0.0
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2011,
+    "joint_wicsa_ecsa": false,
+    "region": "Latin America",
+    "counts": {
+      "female-presenting": 0,
+      "male-presenting": 1,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 0.0,
+      "male-presenting": 100.0
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2011,
+    "joint_wicsa_ecsa": false,
+    "region": "Middle East",
+    "counts": {
+      "female-presenting": 1,
+      "male-presenting": 5,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 16.67,
+      "male-presenting": 83.33
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2011,
+    "joint_wicsa_ecsa": false,
+    "region": "North America",
+    "counts": {
+      "female-presenting": 4,
+      "male-presenting": 27,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 12.9,
+      "male-presenting": 87.1
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2011,
+    "joint_wicsa_ecsa": false,
+    "region": "W. Europe",
+    "counts": {
+      "female-presenting": 6,
+      "male-presenting": 55,
+      "unclassified": 5,
+      "unknown": 1
+    },
+    "percentages": {
+      "female-presenting": 9.84,
+      "male-presenting": 90.16
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2011,
+    "joint_wicsa_ecsa": false,
+    "region": "unknown",
+    "counts": {
+      "female-presenting": 1,
+      "male-presenting": 22,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 4.35,
+      "male-presenting": 95.65
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2012,
+    "joint_wicsa_ecsa": true,
+    "region": "Asia-Pacific",
+    "counts": {
+      "female-presenting": 1,
+      "male-presenting": 10,
+      "unclassified": 5,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 9.09,
+      "male-presenting": 90.91
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2012,
+    "joint_wicsa_ecsa": true,
+    "region": "E. Europe",
+    "counts": {
+      "female-presenting": 0,
+      "male-presenting": 6,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 0.0,
+      "male-presenting": 100.0
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2012,
+    "joint_wicsa_ecsa": true,
+    "region": "Latin America",
+    "counts": {
+      "female-presenting": 1,
+      "male-presenting": 0,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 100.0,
+      "male-presenting": 0.0
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2012,
+    "joint_wicsa_ecsa": true,
+    "region": "Middle East",
+    "counts": {
+      "female-presenting": 1,
+      "male-presenting": 1,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 50.0,
+      "male-presenting": 50.0
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2012,
+    "joint_wicsa_ecsa": true,
+    "region": "North America",
+    "counts": {
+      "female-presenting": 3,
+      "male-presenting": 22,
+      "unclassified": 1,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 12.0,
+      "male-presenting": 88.0
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2012,
+    "joint_wicsa_ecsa": true,
+    "region": "W. Europe",
+    "counts": {
+      "female-presenting": 13,
+      "male-presenting": 76,
+      "unclassified": 2,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 14.61,
+      "male-presenting": 85.39
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2012,
+    "joint_wicsa_ecsa": true,
+    "region": "unknown",
+    "counts": {
+      "female-presenting": 0,
+      "male-presenting": 16,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 0.0,
+      "male-presenting": 100.0
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2014,
+    "joint_wicsa_ecsa": false,
+    "region": "Africa",
+    "counts": {
+      "female-presenting": 0,
+      "male-presenting": 2,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 0.0,
+      "male-presenting": 100.0
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2014,
+    "joint_wicsa_ecsa": false,
+    "region": "Asia-Pacific",
+    "counts": {
+      "female-presenting": 0,
+      "male-presenting": 3,
+      "unclassified": 5,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 0.0,
+      "male-presenting": 100.0
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2014,
+    "joint_wicsa_ecsa": false,
+    "region": "E. Europe",
+    "counts": {
+      "female-presenting": 1,
+      "male-presenting": 4,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 20.0,
+      "male-presenting": 80.0
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2014,
+    "joint_wicsa_ecsa": false,
+    "region": "Latin America",
+    "counts": {
+      "female-presenting": 4,
+      "male-presenting": 6,
+      "unclassified": 1,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 40.0,
+      "male-presenting": 60.0
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2014,
+    "joint_wicsa_ecsa": false,
+    "region": "North America",
+    "counts": {
+      "female-presenting": 1,
+      "male-presenting": 9,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 10.0,
+      "male-presenting": 90.0
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2014,
+    "joint_wicsa_ecsa": false,
+    "region": "W. Europe",
+    "counts": {
+      "female-presenting": 8,
+      "male-presenting": 60,
+      "unclassified": 4,
+      "unknown": 2
+    },
+    "percentages": {
+      "female-presenting": 11.76,
+      "male-presenting": 88.24
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2014,
+    "joint_wicsa_ecsa": false,
+    "region": "unknown",
+    "counts": {
+      "female-presenting": 1,
+      "male-presenting": 5,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 16.67,
+      "male-presenting": 83.33
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2015,
+    "joint_wicsa_ecsa": false,
+    "region": "Asia-Pacific",
+    "counts": {
+      "female-presenting": 0,
+      "male-presenting": 3,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 0.0,
+      "male-presenting": 100.0
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2015,
+    "joint_wicsa_ecsa": false,
+    "region": "North America",
+    "counts": {
+      "female-presenting": 0,
+      "male-presenting": 6,
+      "unclassified": 3,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 0.0,
+      "male-presenting": 100.0
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2015,
+    "joint_wicsa_ecsa": false,
+    "region": "W. Europe",
+    "counts": {
+      "female-presenting": 5,
+      "male-presenting": 39,
+      "unclassified": 2,
+      "unknown": 1
+    },
+    "percentages": {
+      "female-presenting": 11.36,
+      "male-presenting": 88.64
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2015,
+    "joint_wicsa_ecsa": false,
+    "region": "unknown",
+    "counts": {
+      "female-presenting": 1,
+      "male-presenting": 4,
+      "unclassified": 1,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 20.0,
+      "male-presenting": 80.0
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2016,
+    "joint_wicsa_ecsa": false,
+    "region": "Asia-Pacific",
+    "counts": {
+      "female-presenting": 0,
+      "male-presenting": 3,
+      "unclassified": 4,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 0.0,
+      "male-presenting": 100.0
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2016,
+    "joint_wicsa_ecsa": false,
+    "region": "E. Europe",
+    "counts": {
+      "female-presenting": 2,
+      "male-presenting": 7,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 22.22,
+      "male-presenting": 77.78
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2016,
+    "joint_wicsa_ecsa": false,
+    "region": "Latin America",
+    "counts": {
+      "female-presenting": 0,
+      "male-presenting": 1,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 0.0,
+      "male-presenting": 100.0
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2016,
+    "joint_wicsa_ecsa": false,
+    "region": "North America",
+    "counts": {
+      "female-presenting": 8,
+      "male-presenting": 30,
+      "unclassified": 3,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 21.05,
+      "male-presenting": 78.95
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2016,
+    "joint_wicsa_ecsa": false,
+    "region": "W. Europe",
+    "counts": {
+      "female-presenting": 7,
+      "male-presenting": 79,
+      "unclassified": 4,
+      "unknown": 1
+    },
+    "percentages": {
+      "female-presenting": 8.14,
+      "male-presenting": 91.86
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2016,
+    "joint_wicsa_ecsa": false,
+    "region": "unknown",
+    "counts": {
+      "female-presenting": 1,
+      "male-presenting": 9,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 10.0,
+      "male-presenting": 90.0
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2017,
+    "joint_wicsa_ecsa": false,
+    "region": "Asia-Pacific",
+    "counts": {
+      "female-presenting": 0,
+      "male-presenting": 12,
+      "unclassified": 5,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 0.0,
+      "male-presenting": 100.0
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2017,
+    "joint_wicsa_ecsa": false,
+    "region": "E. Europe",
+    "counts": {
+      "female-presenting": 1,
+      "male-presenting": 3,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 25.0,
+      "male-presenting": 75.0
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2017,
+    "joint_wicsa_ecsa": false,
+    "region": "North America",
+    "counts": {
+      "female-presenting": 6,
+      "male-presenting": 17,
+      "unclassified": 3,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 26.09,
+      "male-presenting": 73.91
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2017,
+    "joint_wicsa_ecsa": false,
+    "region": "W. Europe",
+    "counts": {
+      "female-presenting": 15,
+      "male-presenting": 60,
+      "unclassified": 2,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 20.0,
+      "male-presenting": 80.0
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2017,
+    "joint_wicsa_ecsa": false,
+    "region": "unknown",
+    "counts": {
+      "female-presenting": 0,
+      "male-presenting": 10,
+      "unclassified": 2,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 0.0,
+      "male-presenting": 100.0
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2018,
+    "joint_wicsa_ecsa": false,
+    "region": "Asia-Pacific",
+    "counts": {
+      "female-presenting": 1,
+      "male-presenting": 3,
+      "unclassified": 1,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 25.0,
+      "male-presenting": 75.0
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2018,
+    "joint_wicsa_ecsa": false,
+    "region": "E. Europe",
+    "counts": {
+      "female-presenting": 1,
+      "male-presenting": 1,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 50.0,
+      "male-presenting": 50.0
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2018,
+    "joint_wicsa_ecsa": false,
+    "region": "North America",
+    "counts": {
+      "female-presenting": 1,
+      "male-presenting": 15,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 6.25,
+      "male-presenting": 93.75
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2018,
+    "joint_wicsa_ecsa": false,
+    "region": "W. Europe",
+    "counts": {
+      "female-presenting": 10,
+      "male-presenting": 48,
+      "unclassified": 2,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 17.24,
+      "male-presenting": 82.76
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2018,
+    "joint_wicsa_ecsa": false,
+    "region": "unknown",
+    "counts": {
+      "female-presenting": 0,
+      "male-presenting": 7,
+      "unclassified": 1,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 0.0,
+      "male-presenting": 100.0
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2019,
+    "joint_wicsa_ecsa": false,
+    "region": "Asia-Pacific",
+    "counts": {
+      "female-presenting": 1,
+      "male-presenting": 7,
+      "unclassified": 5,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 12.5,
+      "male-presenting": 87.5
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2019,
+    "joint_wicsa_ecsa": false,
+    "region": "E. Europe",
+    "counts": {
+      "female-presenting": 0,
+      "male-presenting": 1,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 0.0,
+      "male-presenting": 100.0
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2019,
+    "joint_wicsa_ecsa": false,
+    "region": "North America",
+    "counts": {
+      "female-presenting": 1,
+      "male-presenting": 2,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 33.33,
+      "male-presenting": 66.67
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2019,
+    "joint_wicsa_ecsa": false,
+    "region": "W. Europe",
+    "counts": {
+      "female-presenting": 10,
+      "male-presenting": 43,
+      "unclassified": 4,
+      "unknown": 2
+    },
+    "percentages": {
+      "female-presenting": 18.87,
+      "male-presenting": 81.13
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2019,
+    "joint_wicsa_ecsa": false,
+    "region": "unknown",
+    "counts": {
+      "female-presenting": 0,
+      "male-presenting": 6,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 0.0,
+      "male-presenting": 100.0
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2020,
+    "joint_wicsa_ecsa": false,
+    "region": "Asia-Pacific",
+    "counts": {
+      "female-presenting": 4,
+      "male-presenting": 7,
+      "unclassified": 2,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 36.36,
+      "male-presenting": 63.64
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2020,
+    "joint_wicsa_ecsa": false,
+    "region": "Latin America",
+    "counts": {
+      "female-presenting": 1,
+      "male-presenting": 7,
+      "unclassified": 1,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 12.5,
+      "male-presenting": 87.5
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2020,
+    "joint_wicsa_ecsa": false,
+    "region": "North America",
+    "counts": {
+      "female-presenting": 3,
+      "male-presenting": 2,
+      "unclassified": 4,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 60.0,
+      "male-presenting": 40.0
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2020,
+    "joint_wicsa_ecsa": false,
+    "region": "W. Europe",
+    "counts": {
+      "female-presenting": 6,
+      "male-presenting": 28,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 17.65,
+      "male-presenting": 82.35
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2021,
+    "joint_wicsa_ecsa": false,
+    "region": "Asia-Pacific",
+    "counts": {
+      "female-presenting": 1,
+      "male-presenting": 2,
+      "unclassified": 3,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 33.33,
+      "male-presenting": 66.67
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2021,
+    "joint_wicsa_ecsa": false,
+    "region": "E. Europe",
+    "counts": {
+      "female-presenting": 1,
+      "male-presenting": 2,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 33.33,
+      "male-presenting": 66.67
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2021,
+    "joint_wicsa_ecsa": false,
+    "region": "North America",
+    "counts": {
+      "female-presenting": 3,
+      "male-presenting": 13,
+      "unclassified": 3,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 18.75,
+      "male-presenting": 81.25
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2021,
+    "joint_wicsa_ecsa": false,
+    "region": "W. Europe",
+    "counts": {
+      "female-presenting": 4,
+      "male-presenting": 25,
+      "unclassified": 2,
+      "unknown": 1
+    },
+    "percentages": {
+      "female-presenting": 13.79,
+      "male-presenting": 86.21
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2021,
+    "joint_wicsa_ecsa": false,
+    "region": "unknown",
+    "counts": {
+      "female-presenting": 0,
+      "male-presenting": 1,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 0.0,
+      "male-presenting": 100.0
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2022,
+    "joint_wicsa_ecsa": false,
+    "region": "Asia-Pacific",
+    "counts": {
+      "female-presenting": 2,
+      "male-presenting": 5,
+      "unclassified": 1,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 28.57,
+      "male-presenting": 71.43
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2022,
+    "joint_wicsa_ecsa": false,
+    "region": "Latin America",
+    "counts": {
+      "female-presenting": 1,
+      "male-presenting": 0,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 100.0,
+      "male-presenting": 0.0
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2022,
+    "joint_wicsa_ecsa": false,
+    "region": "Middle East",
+    "counts": {
+      "female-presenting": 0,
+      "male-presenting": 3,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 0.0,
+      "male-presenting": 100.0
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2022,
+    "joint_wicsa_ecsa": false,
+    "region": "North America",
+    "counts": {
+      "female-presenting": 3,
+      "male-presenting": 9,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 25.0,
+      "male-presenting": 75.0
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2022,
+    "joint_wicsa_ecsa": false,
+    "region": "W. Europe",
+    "counts": {
+      "female-presenting": 6,
+      "male-presenting": 44,
+      "unclassified": 2,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 12.0,
+      "male-presenting": 88.0
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2022,
+    "joint_wicsa_ecsa": false,
+    "region": "unknown",
+    "counts": {
+      "female-presenting": 1,
+      "male-presenting": 0,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 100.0,
+      "male-presenting": 0.0
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2023,
+    "joint_wicsa_ecsa": false,
+    "region": "Asia-Pacific",
+    "counts": {
+      "female-presenting": 4,
+      "male-presenting": 3,
+      "unclassified": 5,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 57.14,
+      "male-presenting": 42.86
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2023,
+    "joint_wicsa_ecsa": false,
+    "region": "Latin America",
+    "counts": {
+      "female-presenting": 2,
+      "male-presenting": 8,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 20.0,
+      "male-presenting": 80.0
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2023,
+    "joint_wicsa_ecsa": false,
+    "region": "W. Europe",
+    "counts": {
+      "female-presenting": 12,
+      "male-presenting": 25,
+      "unclassified": 2,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 32.43,
+      "male-presenting": 67.57
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2024,
+    "joint_wicsa_ecsa": false,
+    "region": "Asia-Pacific",
+    "counts": {
+      "female-presenting": 1,
+      "male-presenting": 7,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 12.5,
+      "male-presenting": 87.5
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2024,
+    "joint_wicsa_ecsa": false,
+    "region": "North America",
+    "counts": {
+      "female-presenting": 2,
+      "male-presenting": 3,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 40.0,
+      "male-presenting": 60.0
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2024,
+    "joint_wicsa_ecsa": false,
+    "region": "W. Europe",
+    "counts": {
+      "female-presenting": 12,
+      "male-presenting": 44,
+      "unclassified": 2,
+      "unknown": 1
+    },
+    "percentages": {
+      "female-presenting": 21.43,
+      "male-presenting": 78.57
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2024,
+    "joint_wicsa_ecsa": false,
+    "region": "unknown",
+    "counts": {
+      "female-presenting": 0,
+      "male-presenting": 2,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 0.0,
+      "male-presenting": 100.0
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2025,
+    "joint_wicsa_ecsa": false,
+    "region": "Asia-Pacific",
+    "counts": {
+      "female-presenting": 2,
+      "male-presenting": 10,
+      "unclassified": 3,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 16.67,
+      "male-presenting": 83.33
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2025,
+    "joint_wicsa_ecsa": false,
+    "region": "E. Europe",
+    "counts": {
+      "female-presenting": 1,
+      "male-presenting": 0,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 100.0,
+      "male-presenting": 0.0
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2025,
+    "joint_wicsa_ecsa": false,
+    "region": "Latin America",
+    "counts": {
+      "female-presenting": 0,
+      "male-presenting": 2,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 0.0,
+      "male-presenting": 100.0
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2025,
+    "joint_wicsa_ecsa": false,
+    "region": "Middle East",
+    "counts": {
+      "female-presenting": 0,
+      "male-presenting": 1,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 0.0,
+      "male-presenting": 100.0
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2025,
+    "joint_wicsa_ecsa": false,
+    "region": "North America",
+    "counts": {
+      "female-presenting": 0,
+      "male-presenting": 6,
+      "unclassified": 2,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 0.0,
+      "male-presenting": 100.0
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2025,
+    "joint_wicsa_ecsa": false,
+    "region": "W. Europe",
+    "counts": {
+      "female-presenting": 11,
+      "male-presenting": 51,
+      "unclassified": 3,
+      "unknown": 1
+    },
+    "percentages": {
+      "female-presenting": 17.74,
+      "male-presenting": 82.26
+    }
+  },
+  {
+    "venue": "ICSA",
+    "year": 2025,
+    "joint_wicsa_ecsa": false,
+    "region": "unknown",
+    "counts": {
+      "female-presenting": 2,
+      "male-presenting": 6,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 25.0,
+      "male-presenting": 75.0
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2007,
+    "joint_wicsa_ecsa": false,
+    "region": "Asia-Pacific",
+    "counts": {
+      "female-presenting": 1,
+      "male-presenting": 16,
+      "unclassified": 11,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 5.88,
+      "male-presenting": 94.12
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2007,
+    "joint_wicsa_ecsa": false,
+    "region": "E. Europe",
+    "counts": {
+      "female-presenting": 0,
+      "male-presenting": 1,
+      "unclassified": 1,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 0.0,
+      "male-presenting": 100.0
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2007,
+    "joint_wicsa_ecsa": false,
+    "region": "Latin America",
+    "counts": {
+      "female-presenting": 2,
+      "male-presenting": 4,
+      "unclassified": 1,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 33.33,
+      "male-presenting": 66.67
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2007,
+    "joint_wicsa_ecsa": false,
+    "region": "Middle East",
+    "counts": {
+      "female-presenting": 1,
+      "male-presenting": 2,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 33.33,
+      "male-presenting": 66.67
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2007,
+    "joint_wicsa_ecsa": false,
+    "region": "North America",
+    "counts": {
+      "female-presenting": 25,
+      "male-presenting": 106,
+      "unclassified": 6,
+      "unknown": 1
+    },
+    "percentages": {
+      "female-presenting": 19.08,
+      "male-presenting": 80.92
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2007,
+    "joint_wicsa_ecsa": false,
+    "region": "Other",
+    "counts": {
+      "female-presenting": 0,
+      "male-presenting": 1,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 0.0,
+      "male-presenting": 100.0
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2007,
+    "joint_wicsa_ecsa": false,
+    "region": "W. Europe",
+    "counts": {
+      "female-presenting": 6,
+      "male-presenting": 60,
+      "unclassified": 2,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 9.09,
+      "male-presenting": 90.91
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2007,
+    "joint_wicsa_ecsa": false,
+    "region": "unknown",
+    "counts": {
+      "female-presenting": 3,
+      "male-presenting": 18,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 14.29,
+      "male-presenting": 85.71
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2008,
+    "joint_wicsa_ecsa": false,
+    "region": "Asia-Pacific",
+    "counts": {
+      "female-presenting": 3,
+      "male-presenting": 10,
+      "unclassified": 6,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 23.08,
+      "male-presenting": 76.92
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2008,
+    "joint_wicsa_ecsa": false,
+    "region": "E. Europe",
+    "counts": {
+      "female-presenting": 0,
+      "male-presenting": 4,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 0.0,
+      "male-presenting": 100.0
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2008,
+    "joint_wicsa_ecsa": false,
+    "region": "Latin America",
+    "counts": {
+      "female-presenting": 0,
+      "male-presenting": 11,
+      "unclassified": 1,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 0.0,
+      "male-presenting": 100.0
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2008,
+    "joint_wicsa_ecsa": false,
+    "region": "North America",
+    "counts": {
+      "female-presenting": 24,
+      "male-presenting": 109,
+      "unclassified": 8,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 18.05,
+      "male-presenting": 81.95
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2008,
+    "joint_wicsa_ecsa": false,
+    "region": "W. Europe",
+    "counts": {
+      "female-presenting": 20,
+      "male-presenting": 107,
+      "unclassified": 4,
+      "unknown": 1
+    },
+    "percentages": {
+      "female-presenting": 15.75,
+      "male-presenting": 84.25
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2008,
+    "joint_wicsa_ecsa": false,
+    "region": "unknown",
+    "counts": {
+      "female-presenting": 5,
+      "male-presenting": 25,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 16.67,
+      "male-presenting": 83.33
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2009,
+    "joint_wicsa_ecsa": false,
+    "region": "Asia-Pacific",
+    "counts": {
+      "female-presenting": 11,
+      "male-presenting": 15,
+      "unclassified": 8,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 42.31,
+      "male-presenting": 57.69
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2009,
+    "joint_wicsa_ecsa": false,
+    "region": "Latin America",
+    "counts": {
+      "female-presenting": 0,
+      "male-presenting": 4,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 0.0,
+      "male-presenting": 100.0
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2009,
+    "joint_wicsa_ecsa": false,
+    "region": "Middle East",
+    "counts": {
+      "female-presenting": 1,
+      "male-presenting": 1,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 50.0,
+      "male-presenting": 50.0
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2009,
+    "joint_wicsa_ecsa": false,
+    "region": "North America",
+    "counts": {
+      "female-presenting": 22,
+      "male-presenting": 77,
+      "unclassified": 5,
+      "unknown": 1
+    },
+    "percentages": {
+      "female-presenting": 22.22,
+      "male-presenting": 77.78
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2009,
+    "joint_wicsa_ecsa": false,
+    "region": "W. Europe",
+    "counts": {
+      "female-presenting": 11,
+      "male-presenting": 76,
+      "unclassified": 1,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 12.64,
+      "male-presenting": 87.36
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2009,
+    "joint_wicsa_ecsa": false,
+    "region": "unknown",
+    "counts": {
+      "female-presenting": 1,
+      "male-presenting": 5,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 16.67,
+      "male-presenting": 83.33
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2010,
+    "joint_wicsa_ecsa": false,
+    "region": "Africa",
+    "counts": {
+      "female-presenting": 1,
+      "male-presenting": 1,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 50.0,
+      "male-presenting": 50.0
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2010,
+    "joint_wicsa_ecsa": false,
+    "region": "Asia-Pacific",
+    "counts": {
+      "female-presenting": 8,
+      "male-presenting": 21,
+      "unclassified": 5,
+      "unknown": 2
+    },
+    "percentages": {
+      "female-presenting": 27.59,
+      "male-presenting": 72.41
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2010,
+    "joint_wicsa_ecsa": false,
+    "region": "Latin America",
+    "counts": {
+      "female-presenting": 3,
+      "male-presenting": 8,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 27.27,
+      "male-presenting": 72.73
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2010,
+    "joint_wicsa_ecsa": false,
+    "region": "Middle East",
+    "counts": {
+      "female-presenting": 2,
+      "male-presenting": 0,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 100.0,
+      "male-presenting": 0.0
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2010,
+    "joint_wicsa_ecsa": false,
+    "region": "North America",
+    "counts": {
+      "female-presenting": 14,
+      "male-presenting": 95,
+      "unclassified": 7,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 12.84,
+      "male-presenting": 87.16
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2010,
+    "joint_wicsa_ecsa": false,
+    "region": "W. Europe",
+    "counts": {
+      "female-presenting": 4,
+      "male-presenting": 46,
+      "unclassified": 2,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 8.0,
+      "male-presenting": 92.0
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2010,
+    "joint_wicsa_ecsa": false,
+    "region": "unknown",
+    "counts": {
+      "female-presenting": 2,
+      "male-presenting": 5,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 28.57,
+      "male-presenting": 71.43
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2011,
+    "joint_wicsa_ecsa": false,
+    "region": "Africa",
+    "counts": {
+      "female-presenting": 0,
+      "male-presenting": 1,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 0.0,
+      "male-presenting": 100.0
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2011,
+    "joint_wicsa_ecsa": false,
+    "region": "Asia-Pacific",
+    "counts": {
+      "female-presenting": 14,
+      "male-presenting": 44,
+      "unclassified": 11,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 24.14,
+      "male-presenting": 75.86
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2011,
+    "joint_wicsa_ecsa": false,
+    "region": "E. Europe",
+    "counts": {
+      "female-presenting": 0,
+      "male-presenting": 1,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 0.0,
+      "male-presenting": 100.0
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2011,
+    "joint_wicsa_ecsa": false,
+    "region": "Latin America",
+    "counts": {
+      "female-presenting": 2,
+      "male-presenting": 12,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 14.29,
+      "male-presenting": 85.71
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2011,
+    "joint_wicsa_ecsa": false,
+    "region": "Middle East",
+    "counts": {
+      "female-presenting": 4,
+      "male-presenting": 7,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 36.36,
+      "male-presenting": 63.64
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2011,
+    "joint_wicsa_ecsa": false,
+    "region": "North America",
+    "counts": {
+      "female-presenting": 60,
+      "male-presenting": 262,
+      "unclassified": 22,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 18.63,
+      "male-presenting": 81.37
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2011,
+    "joint_wicsa_ecsa": false,
+    "region": "W. Europe",
+    "counts": {
+      "female-presenting": 21,
+      "male-presenting": 158,
+      "unclassified": 11,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 11.73,
+      "male-presenting": 88.27
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2011,
+    "joint_wicsa_ecsa": false,
+    "region": "unknown",
+    "counts": {
+      "female-presenting": 4,
+      "male-presenting": 29,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 12.12,
+      "male-presenting": 87.88
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2012,
+    "joint_wicsa_ecsa": false,
+    "region": "Africa",
+    "counts": {
+      "female-presenting": 1,
+      "male-presenting": 0,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 100.0,
+      "male-presenting": 0.0
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2012,
+    "joint_wicsa_ecsa": false,
+    "region": "Asia-Pacific",
+    "counts": {
+      "female-presenting": 22,
+      "male-presenting": 74,
+      "unclassified": 17,
+      "unknown": 1
+    },
+    "percentages": {
+      "female-presenting": 22.92,
+      "male-presenting": 77.08
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2012,
+    "joint_wicsa_ecsa": false,
+    "region": "E. Europe",
+    "counts": {
+      "female-presenting": 1,
+      "male-presenting": 3,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 25.0,
+      "male-presenting": 75.0
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2012,
+    "joint_wicsa_ecsa": false,
+    "region": "Latin America",
+    "counts": {
+      "female-presenting": 2,
+      "male-presenting": 16,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 11.11,
+      "male-presenting": 88.89
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2012,
+    "joint_wicsa_ecsa": false,
+    "region": "Middle East",
+    "counts": {
+      "female-presenting": 6,
+      "male-presenting": 4,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 60.0,
+      "male-presenting": 40.0
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2012,
+    "joint_wicsa_ecsa": false,
+    "region": "North America",
+    "counts": {
+      "female-presenting": 51,
+      "male-presenting": 216,
+      "unclassified": 22,
+      "unknown": 1
+    },
+    "percentages": {
+      "female-presenting": 19.1,
+      "male-presenting": 80.9
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2012,
+    "joint_wicsa_ecsa": false,
+    "region": "W. Europe",
+    "counts": {
+      "female-presenting": 33,
+      "male-presenting": 220,
+      "unclassified": 9,
+      "unknown": 1
+    },
+    "percentages": {
+      "female-presenting": 13.04,
+      "male-presenting": 86.96
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2012,
+    "joint_wicsa_ecsa": false,
+    "region": "unknown",
+    "counts": {
+      "female-presenting": 2,
+      "male-presenting": 26,
+      "unclassified": 1,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 7.14,
+      "male-presenting": 92.86
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2013,
+    "joint_wicsa_ecsa": false,
+    "region": "Africa",
+    "counts": {
+      "female-presenting": 0,
+      "male-presenting": 3,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 0.0,
+      "male-presenting": 100.0
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2013,
+    "joint_wicsa_ecsa": false,
+    "region": "Asia-Pacific",
+    "counts": {
+      "female-presenting": 21,
+      "male-presenting": 53,
+      "unclassified": 16,
+      "unknown": 1
+    },
+    "percentages": {
+      "female-presenting": 28.38,
+      "male-presenting": 71.62
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2013,
+    "joint_wicsa_ecsa": false,
+    "region": "E. Europe",
+    "counts": {
+      "female-presenting": 1,
+      "male-presenting": 1,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 50.0,
+      "male-presenting": 50.0
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2013,
+    "joint_wicsa_ecsa": false,
+    "region": "Latin America",
+    "counts": {
+      "female-presenting": 6,
+      "male-presenting": 15,
+      "unclassified": 2,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 28.57,
+      "male-presenting": 71.43
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2013,
+    "joint_wicsa_ecsa": false,
+    "region": "Middle East",
+    "counts": {
+      "female-presenting": 3,
+      "male-presenting": 4,
+      "unclassified": 1,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 42.86,
+      "male-presenting": 57.14
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2013,
+    "joint_wicsa_ecsa": false,
+    "region": "North America",
+    "counts": {
+      "female-presenting": 68,
+      "male-presenting": 265,
+      "unclassified": 22,
+      "unknown": 3
+    },
+    "percentages": {
+      "female-presenting": 20.42,
+      "male-presenting": 79.58
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2013,
+    "joint_wicsa_ecsa": false,
+    "region": "W. Europe",
+    "counts": {
+      "female-presenting": 39,
+      "male-presenting": 187,
+      "unclassified": 6,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 17.26,
+      "male-presenting": 82.74
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2013,
+    "joint_wicsa_ecsa": false,
+    "region": "unknown",
+    "counts": {
+      "female-presenting": 5,
+      "male-presenting": 49,
+      "unclassified": 1,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 9.26,
+      "male-presenting": 90.74
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2014,
+    "joint_wicsa_ecsa": false,
+    "region": "Asia-Pacific",
+    "counts": {
+      "female-presenting": 13,
+      "male-presenting": 28,
+      "unclassified": 13,
+      "unknown": 4
+    },
+    "percentages": {
+      "female-presenting": 31.71,
+      "male-presenting": 68.29
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2014,
+    "joint_wicsa_ecsa": false,
+    "region": "Latin America",
+    "counts": {
+      "female-presenting": 1,
+      "male-presenting": 16,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 5.88,
+      "male-presenting": 94.12
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2014,
+    "joint_wicsa_ecsa": false,
+    "region": "Middle East",
+    "counts": {
+      "female-presenting": 0,
+      "male-presenting": 0,
+      "unclassified": 1,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": null,
+      "male-presenting": null
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2014,
+    "joint_wicsa_ecsa": false,
+    "region": "North America",
+    "counts": {
+      "female-presenting": 29,
+      "male-presenting": 130,
+      "unclassified": 12,
+      "unknown": 1
+    },
+    "percentages": {
+      "female-presenting": 18.24,
+      "male-presenting": 81.76
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2014,
+    "joint_wicsa_ecsa": false,
+    "region": "W. Europe",
+    "counts": {
+      "female-presenting": 11,
+      "male-presenting": 70,
+      "unclassified": 9,
+      "unknown": 1
+    },
+    "percentages": {
+      "female-presenting": 13.58,
+      "male-presenting": 86.42
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2014,
+    "joint_wicsa_ecsa": false,
+    "region": "unknown",
+    "counts": {
+      "female-presenting": 2,
+      "male-presenting": 11,
+      "unclassified": 3,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 15.38,
+      "male-presenting": 84.62
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2015,
+    "joint_wicsa_ecsa": false,
+    "region": "Asia-Pacific",
+    "counts": {
+      "female-presenting": 16,
+      "male-presenting": 41,
+      "unclassified": 8,
+      "unknown": 1
+    },
+    "percentages": {
+      "female-presenting": 28.07,
+      "male-presenting": 71.93
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2015,
+    "joint_wicsa_ecsa": false,
+    "region": "Latin America",
+    "counts": {
+      "female-presenting": 0,
+      "male-presenting": 5,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 0.0,
+      "male-presenting": 100.0
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2015,
+    "joint_wicsa_ecsa": false,
+    "region": "North America",
+    "counts": {
+      "female-presenting": 32,
+      "male-presenting": 115,
+      "unclassified": 12,
+      "unknown": 2
+    },
+    "percentages": {
+      "female-presenting": 21.77,
+      "male-presenting": 78.23
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2015,
+    "joint_wicsa_ecsa": false,
+    "region": "W. Europe",
+    "counts": {
+      "female-presenting": 10,
+      "male-presenting": 76,
+      "unclassified": 3,
+      "unknown": 1
+    },
+    "percentages": {
+      "female-presenting": 11.63,
+      "male-presenting": 88.37
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2015,
+    "joint_wicsa_ecsa": false,
+    "region": "unknown",
+    "counts": {
+      "female-presenting": 3,
+      "male-presenting": 21,
+      "unclassified": 1,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 12.5,
+      "male-presenting": 87.5
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2016,
+    "joint_wicsa_ecsa": false,
+    "region": "Asia-Pacific",
+    "counts": {
+      "female-presenting": 15,
+      "male-presenting": 58,
+      "unclassified": 22,
+      "unknown": 6
+    },
+    "percentages": {
+      "female-presenting": 20.55,
+      "male-presenting": 79.45
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2016,
+    "joint_wicsa_ecsa": false,
+    "region": "E. Europe",
+    "counts": {
+      "female-presenting": 0,
+      "male-presenting": 1,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 0.0,
+      "male-presenting": 100.0
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2016,
+    "joint_wicsa_ecsa": false,
+    "region": "Latin America",
+    "counts": {
+      "female-presenting": 1,
+      "male-presenting": 15,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 6.25,
+      "male-presenting": 93.75
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2016,
+    "joint_wicsa_ecsa": false,
+    "region": "Middle East",
+    "counts": {
+      "female-presenting": 1,
+      "male-presenting": 3,
+      "unclassified": 1,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 25.0,
+      "male-presenting": 75.0
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2016,
+    "joint_wicsa_ecsa": false,
+    "region": "North America",
+    "counts": {
+      "female-presenting": 36,
+      "male-presenting": 134,
+      "unclassified": 21,
+      "unknown": 1
+    },
+    "percentages": {
+      "female-presenting": 21.18,
+      "male-presenting": 78.82
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2016,
+    "joint_wicsa_ecsa": false,
+    "region": "W. Europe",
+    "counts": {
+      "female-presenting": 16,
+      "male-presenting": 87,
+      "unclassified": 4,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 15.53,
+      "male-presenting": 84.47
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2016,
+    "joint_wicsa_ecsa": false,
+    "region": "unknown",
+    "counts": {
+      "female-presenting": 1,
+      "male-presenting": 16,
+      "unclassified": 2,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 5.88,
+      "male-presenting": 94.12
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2017,
+    "joint_wicsa_ecsa": false,
+    "region": "Africa",
+    "counts": {
+      "female-presenting": 0,
+      "male-presenting": 1,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 0.0,
+      "male-presenting": 100.0
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2017,
+    "joint_wicsa_ecsa": false,
+    "region": "Asia-Pacific",
+    "counts": {
+      "female-presenting": 10,
+      "male-presenting": 35,
+      "unclassified": 17,
+      "unknown": 1
+    },
+    "percentages": {
+      "female-presenting": 22.22,
+      "male-presenting": 77.78
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2017,
+    "joint_wicsa_ecsa": false,
+    "region": "Latin America",
+    "counts": {
+      "female-presenting": 1,
+      "male-presenting": 5,
+      "unclassified": 0,
+      "unknown": 1
+    },
+    "percentages": {
+      "female-presenting": 16.67,
+      "male-presenting": 83.33
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2017,
+    "joint_wicsa_ecsa": false,
+    "region": "Middle East",
+    "counts": {
+      "female-presenting": 0,
+      "male-presenting": 2,
+      "unclassified": 1,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 0.0,
+      "male-presenting": 100.0
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2017,
+    "joint_wicsa_ecsa": false,
+    "region": "North America",
+    "counts": {
+      "female-presenting": 19,
+      "male-presenting": 93,
+      "unclassified": 8,
+      "unknown": 1
+    },
+    "percentages": {
+      "female-presenting": 16.96,
+      "male-presenting": 83.04
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2017,
+    "joint_wicsa_ecsa": false,
+    "region": "W. Europe",
+    "counts": {
+      "female-presenting": 9,
+      "male-presenting": 60,
+      "unclassified": 4,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 13.04,
+      "male-presenting": 86.96
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2017,
+    "joint_wicsa_ecsa": false,
+    "region": "unknown",
+    "counts": {
+      "female-presenting": 2,
+      "male-presenting": 4,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 33.33,
+      "male-presenting": 66.67
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2018,
+    "joint_wicsa_ecsa": false,
+    "region": "Asia-Pacific",
+    "counts": {
+      "female-presenting": 25,
+      "male-presenting": 72,
+      "unclassified": 31,
+      "unknown": 2
+    },
+    "percentages": {
+      "female-presenting": 25.77,
+      "male-presenting": 74.23
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2018,
+    "joint_wicsa_ecsa": false,
+    "region": "E. Europe",
+    "counts": {
+      "female-presenting": 0,
+      "male-presenting": 7,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 0.0,
+      "male-presenting": 100.0
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2018,
+    "joint_wicsa_ecsa": false,
+    "region": "Latin America",
+    "counts": {
+      "female-presenting": 2,
+      "male-presenting": 36,
+      "unclassified": 1,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 5.26,
+      "male-presenting": 94.74
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2018,
+    "joint_wicsa_ecsa": false,
+    "region": "Middle East",
+    "counts": {
+      "female-presenting": 5,
+      "male-presenting": 6,
+      "unclassified": 1,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 45.45,
+      "male-presenting": 54.55
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2018,
+    "joint_wicsa_ecsa": false,
+    "region": "North America",
+    "counts": {
+      "female-presenting": 53,
+      "male-presenting": 181,
+      "unclassified": 22,
+      "unknown": 4
+    },
+    "percentages": {
+      "female-presenting": 22.65,
+      "male-presenting": 77.35
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2018,
+    "joint_wicsa_ecsa": false,
+    "region": "W. Europe",
+    "counts": {
+      "female-presenting": 22,
+      "male-presenting": 143,
+      "unclassified": 8,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 13.33,
+      "male-presenting": 86.67
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2018,
+    "joint_wicsa_ecsa": false,
+    "region": "unknown",
+    "counts": {
+      "female-presenting": 4,
+      "male-presenting": 24,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 14.29,
+      "male-presenting": 85.71
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2019,
+    "joint_wicsa_ecsa": false,
+    "region": "Asia-Pacific",
+    "counts": {
+      "female-presenting": 30,
+      "male-presenting": 90,
+      "unclassified": 46,
+      "unknown": 4
+    },
+    "percentages": {
+      "female-presenting": 25.0,
+      "male-presenting": 75.0
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2019,
+    "joint_wicsa_ecsa": false,
+    "region": "E. Europe",
+    "counts": {
+      "female-presenting": 0,
+      "male-presenting": 1,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 0.0,
+      "male-presenting": 100.0
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2019,
+    "joint_wicsa_ecsa": false,
+    "region": "Latin America",
+    "counts": {
+      "female-presenting": 1,
+      "male-presenting": 8,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 11.11,
+      "male-presenting": 88.89
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2019,
+    "joint_wicsa_ecsa": false,
+    "region": "Middle East",
+    "counts": {
+      "female-presenting": 2,
+      "male-presenting": 0,
+      "unclassified": 2,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 100.0,
+      "male-presenting": 0.0
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2019,
+    "joint_wicsa_ecsa": false,
+    "region": "North America",
+    "counts": {
+      "female-presenting": 51,
+      "male-presenting": 145,
+      "unclassified": 21,
+      "unknown": 4
+    },
+    "percentages": {
+      "female-presenting": 26.02,
+      "male-presenting": 73.98
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2019,
+    "joint_wicsa_ecsa": false,
+    "region": "W. Europe",
+    "counts": {
+      "female-presenting": 8,
+      "male-presenting": 82,
+      "unclassified": 3,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 8.89,
+      "male-presenting": 91.11
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2019,
+    "joint_wicsa_ecsa": false,
+    "region": "unknown",
+    "counts": {
+      "female-presenting": 3,
+      "male-presenting": 14,
+      "unclassified": 2,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 17.65,
+      "male-presenting": 82.35
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2020,
+    "joint_wicsa_ecsa": false,
+    "region": "Asia-Pacific",
+    "counts": {
+      "female-presenting": 42,
+      "male-presenting": 140,
+      "unclassified": 59,
+      "unknown": 4
+    },
+    "percentages": {
+      "female-presenting": 23.08,
+      "male-presenting": 76.92
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2020,
+    "joint_wicsa_ecsa": false,
+    "region": "E. Europe",
+    "counts": {
+      "female-presenting": 1,
+      "male-presenting": 0,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 100.0,
+      "male-presenting": 0.0
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2020,
+    "joint_wicsa_ecsa": false,
+    "region": "Latin America",
+    "counts": {
+      "female-presenting": 0,
+      "male-presenting": 3,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 0.0,
+      "male-presenting": 100.0
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2020,
+    "joint_wicsa_ecsa": false,
+    "region": "Middle East",
+    "counts": {
+      "female-presenting": 0,
+      "male-presenting": 2,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 0.0,
+      "male-presenting": 100.0
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2020,
+    "joint_wicsa_ecsa": false,
+    "region": "North America",
+    "counts": {
+      "female-presenting": 55,
+      "male-presenting": 136,
+      "unclassified": 30,
+      "unknown": 1
+    },
+    "percentages": {
+      "female-presenting": 28.8,
+      "male-presenting": 71.2
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2020,
+    "joint_wicsa_ecsa": false,
+    "region": "W. Europe",
+    "counts": {
+      "female-presenting": 20,
+      "male-presenting": 94,
+      "unclassified": 9,
+      "unknown": 1
+    },
+    "percentages": {
+      "female-presenting": 17.54,
+      "male-presenting": 82.46
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2020,
+    "joint_wicsa_ecsa": false,
+    "region": "unknown",
+    "counts": {
+      "female-presenting": 2,
+      "male-presenting": 13,
+      "unclassified": 3,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 13.33,
+      "male-presenting": 86.67
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2021,
+    "joint_wicsa_ecsa": false,
+    "region": "Asia-Pacific",
+    "counts": {
+      "female-presenting": 38,
+      "male-presenting": 130,
+      "unclassified": 66,
+      "unknown": 6
+    },
+    "percentages": {
+      "female-presenting": 22.62,
+      "male-presenting": 77.38
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2021,
+    "joint_wicsa_ecsa": false,
+    "region": "Latin America",
+    "counts": {
+      "female-presenting": 0,
+      "male-presenting": 21,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 0.0,
+      "male-presenting": 100.0
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2021,
+    "joint_wicsa_ecsa": false,
+    "region": "Middle East",
+    "counts": {
+      "female-presenting": 1,
+      "male-presenting": 0,
+      "unclassified": 2,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 100.0,
+      "male-presenting": 0.0
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2021,
+    "joint_wicsa_ecsa": false,
+    "region": "North America",
+    "counts": {
+      "female-presenting": 51,
+      "male-presenting": 156,
+      "unclassified": 24,
+      "unknown": 4
+    },
+    "percentages": {
+      "female-presenting": 24.64,
+      "male-presenting": 75.36
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2021,
+    "joint_wicsa_ecsa": false,
+    "region": "W. Europe",
+    "counts": {
+      "female-presenting": 14,
+      "male-presenting": 107,
+      "unclassified": 9,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 11.57,
+      "male-presenting": 88.43
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2021,
+    "joint_wicsa_ecsa": false,
+    "region": "unknown",
+    "counts": {
+      "female-presenting": 3,
+      "male-presenting": 19,
+      "unclassified": 2,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 13.64,
+      "male-presenting": 86.36
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2022,
+    "joint_wicsa_ecsa": false,
+    "region": "Asia-Pacific",
+    "counts": {
+      "female-presenting": 82,
+      "male-presenting": 259,
+      "unclassified": 128,
+      "unknown": 8
+    },
+    "percentages": {
+      "female-presenting": 24.05,
+      "male-presenting": 75.95
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2022,
+    "joint_wicsa_ecsa": false,
+    "region": "E. Europe",
+    "counts": {
+      "female-presenting": 0,
+      "male-presenting": 2,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 0.0,
+      "male-presenting": 100.0
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2022,
+    "joint_wicsa_ecsa": false,
+    "region": "Latin America",
+    "counts": {
+      "female-presenting": 1,
+      "male-presenting": 5,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 16.67,
+      "male-presenting": 83.33
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2022,
+    "joint_wicsa_ecsa": false,
+    "region": "Middle East",
+    "counts": {
+      "female-presenting": 0,
+      "male-presenting": 1,
+      "unclassified": 2,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 0.0,
+      "male-presenting": 100.0
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2022,
+    "joint_wicsa_ecsa": false,
+    "region": "North America",
+    "counts": {
+      "female-presenting": 63,
+      "male-presenting": 216,
+      "unclassified": 39,
+      "unknown": 1
+    },
+    "percentages": {
+      "female-presenting": 22.58,
+      "male-presenting": 77.42
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2022,
+    "joint_wicsa_ecsa": false,
+    "region": "W. Europe",
+    "counts": {
+      "female-presenting": 19,
+      "male-presenting": 95,
+      "unclassified": 8,
+      "unknown": 1
+    },
+    "percentages": {
+      "female-presenting": 16.67,
+      "male-presenting": 83.33
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2022,
+    "joint_wicsa_ecsa": false,
+    "region": "unknown",
+    "counts": {
+      "female-presenting": 5,
+      "male-presenting": 28,
+      "unclassified": 6,
+      "unknown": 1
+    },
+    "percentages": {
+      "female-presenting": 15.15,
+      "male-presenting": 84.85
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2023,
+    "joint_wicsa_ecsa": false,
+    "region": "Asia-Pacific",
+    "counts": {
+      "female-presenting": 83,
+      "male-presenting": 308,
+      "unclassified": 136,
+      "unknown": 15
+    },
+    "percentages": {
+      "female-presenting": 21.23,
+      "male-presenting": 78.77
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2023,
+    "joint_wicsa_ecsa": false,
+    "region": "Latin America",
+    "counts": {
+      "female-presenting": 5,
+      "male-presenting": 10,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 33.33,
+      "male-presenting": 66.67
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2023,
+    "joint_wicsa_ecsa": false,
+    "region": "Middle East",
+    "counts": {
+      "female-presenting": 3,
+      "male-presenting": 1,
+      "unclassified": 5,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 75.0,
+      "male-presenting": 25.0
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2023,
+    "joint_wicsa_ecsa": false,
+    "region": "North America",
+    "counts": {
+      "female-presenting": 60,
+      "male-presenting": 196,
+      "unclassified": 50,
+      "unknown": 2
+    },
+    "percentages": {
+      "female-presenting": 23.44,
+      "male-presenting": 76.56
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2023,
+    "joint_wicsa_ecsa": false,
+    "region": "W. Europe",
+    "counts": {
+      "female-presenting": 7,
+      "male-presenting": 100,
+      "unclassified": 9,
+      "unknown": 1
+    },
+    "percentages": {
+      "female-presenting": 6.54,
+      "male-presenting": 93.46
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2023,
+    "joint_wicsa_ecsa": false,
+    "region": "unknown",
+    "counts": {
+      "female-presenting": 3,
+      "male-presenting": 15,
+      "unclassified": 1,
+      "unknown": 1
+    },
+    "percentages": {
+      "female-presenting": 16.67,
+      "male-presenting": 83.33
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2024,
+    "joint_wicsa_ecsa": false,
+    "region": "Africa",
+    "counts": {
+      "female-presenting": 0,
+      "male-presenting": 1,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 0.0,
+      "male-presenting": 100.0
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2024,
+    "joint_wicsa_ecsa": false,
+    "region": "Asia-Pacific",
+    "counts": {
+      "female-presenting": 106,
+      "male-presenting": 393,
+      "unclassified": 228,
+      "unknown": 13
+    },
+    "percentages": {
+      "female-presenting": 21.24,
+      "male-presenting": 78.76
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2024,
+    "joint_wicsa_ecsa": false,
+    "region": "Latin America",
+    "counts": {
+      "female-presenting": 1,
+      "male-presenting": 2,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 33.33,
+      "male-presenting": 66.67
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2024,
+    "joint_wicsa_ecsa": false,
+    "region": "Middle East",
+    "counts": {
+      "female-presenting": 0,
+      "male-presenting": 2,
+      "unclassified": 2,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 0.0,
+      "male-presenting": 100.0
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2024,
+    "joint_wicsa_ecsa": false,
+    "region": "North America",
+    "counts": {
+      "female-presenting": 65,
+      "male-presenting": 214,
+      "unclassified": 39,
+      "unknown": 5
+    },
+    "percentages": {
+      "female-presenting": 23.3,
+      "male-presenting": 76.7
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2024,
+    "joint_wicsa_ecsa": false,
+    "region": "W. Europe",
+    "counts": {
+      "female-presenting": 19,
+      "male-presenting": 111,
+      "unclassified": 5,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 14.62,
+      "male-presenting": 85.38
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2024,
+    "joint_wicsa_ecsa": false,
+    "region": "unknown",
+    "counts": {
+      "female-presenting": 5,
+      "male-presenting": 16,
+      "unclassified": 7,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 23.81,
+      "male-presenting": 76.19
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2025,
+    "joint_wicsa_ecsa": false,
+    "region": "Asia-Pacific",
+    "counts": {
+      "female-presenting": 100,
+      "male-presenting": 362,
+      "unclassified": 219,
+      "unknown": 6
+    },
+    "percentages": {
+      "female-presenting": 21.65,
+      "male-presenting": 78.35
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2025,
+    "joint_wicsa_ecsa": false,
+    "region": "Latin America",
+    "counts": {
+      "female-presenting": 1,
+      "male-presenting": 5,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 16.67,
+      "male-presenting": 83.33
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2025,
+    "joint_wicsa_ecsa": false,
+    "region": "Middle East",
+    "counts": {
+      "female-presenting": 1,
+      "male-presenting": 1,
+      "unclassified": 0,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 50.0,
+      "male-presenting": 50.0
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2025,
+    "joint_wicsa_ecsa": false,
+    "region": "North America",
+    "counts": {
+      "female-presenting": 96,
+      "male-presenting": 295,
+      "unclassified": 55,
+      "unknown": 6
+    },
+    "percentages": {
+      "female-presenting": 24.55,
+      "male-presenting": 75.45
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2025,
+    "joint_wicsa_ecsa": false,
+    "region": "W. Europe",
+    "counts": {
+      "female-presenting": 24,
+      "male-presenting": 97,
+      "unclassified": 13,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 19.83,
+      "male-presenting": 80.17
+    }
+  },
+  {
+    "venue": "ICSE",
+    "year": 2025,
+    "joint_wicsa_ecsa": false,
+    "region": "unknown",
+    "counts": {
+      "female-presenting": 6,
+      "male-presenting": 32,
+      "unclassified": 8,
+      "unknown": 0
+    },
+    "percentages": {
+      "female-presenting": 15.79,
+      "male-presenting": 84.21
+    }
+  }
+]

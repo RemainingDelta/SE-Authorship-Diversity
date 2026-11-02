@@ -48,11 +48,29 @@ def _save_cache(cache, cache_path):
     tmp.replace(path)
 
 
+class GenderizeError(Exception):
+    """A failed Genderize request. The message never includes the API key."""
+
+    def __init__(self, message, status=None):
+        super().__init__(message)
+        self.status = status
+
+
 def _fetch_batch(names, api_key):
     params = [("name[]", name) for name in names]
     params.append(("apikey", api_key))
-    resp = requests.get(API_URL, params=params, timeout=TIMEOUT)
-    resp.raise_for_status()
+    # requests puts the full URL, apikey included, in its error messages, so
+    # re-raise without them. `from None` also drops the original from tracebacks.
+    try:
+        resp = requests.get(API_URL, params=params, timeout=TIMEOUT)
+        resp.raise_for_status()
+    except requests.HTTPError:
+        raise GenderizeError(
+            f"Genderize returned HTTP {resp.status_code}: {resp.text[:200]}",
+            status=resp.status_code,
+        ) from None
+    except requests.RequestException as e:
+        raise GenderizeError(f"Genderize request failed: {type(e).__name__}") from None
     results = resp.json()
     if len(results) != len(names):
         raise ValueError(f"Sent {len(names)} names, got {len(results)} results")

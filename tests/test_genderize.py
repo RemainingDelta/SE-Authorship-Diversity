@@ -1,4 +1,5 @@
 import json
+import traceback
 from unittest.mock import MagicMock, patch
 
 import pytest
@@ -192,3 +193,59 @@ def test_dblp_author_names_default_to_main_track(tmp_path):
     assert mod.dblp_author_names(dblp) == ["Main Author"]
     assert mod.dblp_author_names(dblp, all_tracks=True) == ["Main Author", "Companion Author"]
 
+
+
+# ── errors must never reveal the API key ─────────────────────────────────────
+
+SECRET = "s3cr3t-api-key"
+
+
+def _http_error_response(status, url):
+    resp = MagicMock()
+    resp.status_code = status
+    resp.text = '{"error":"Request limit reached"}'
+    resp.raise_for_status.side_effect = mod.requests.HTTPError(
+        f"{status} Client Error: Too Many Requests for url: {url}", response=resp
+    )
+    return resp
+
+
+def _full_traceback(exc):
+    return "".join(traceback.format_exception(exc))
+
+
+def test_http_error_does_not_reveal_api_key(cache_path):
+    resp = _http_error_response(429, f"https://api.genderize.io/?name[]=Ada&apikey={SECRET}")
+    with patch.object(mod.requests, "get", return_value=resp):
+        with pytest.raises(mod.GenderizeError) as info:
+            mod.lookup_new(["Ada Lovelace"], cache_path, SECRET, confirm=False)
+
+    assert info.value.status == 429
+    assert "Request limit reached" in str(info.value)
+    assert SECRET not in _full_traceback(info.value)
+
+
+def test_connection_error_does_not_reveal_api_key(cache_path):
+    err = mod.requests.ConnectionError(f"Max retries exceeded with url: /?apikey={SECRET}")
+    with patch.object(mod.requests, "get", side_effect=err):
+        with pytest.raises(mod.GenderizeError) as info:
+            mod.lookup_new(["Ada Lovelace"], cache_path, SECRET, confirm=False)
+
+    assert info.value.status is None
+    assert SECRET not in _full_traceback(info.value)
+
+
+def test_quota_error_mid_run_keeps_earlier_batches(cache_path):
+    url = f"https://api.genderize.io/?apikey={SECRET}"
+    responses = iter([None, _http_error_response(429, url)])
+
+    def get(url, params, timeout):
+        resp = next(responses)
+        return _fake_get(url, params, timeout) if resp is None else resp
+
+    with patch.object(mod.requests, "get", side_effect=get):
+        with pytest.raises(mod.GenderizeError):
+            mod.lookup_new(_new_names(15), cache_path, "key", confirm=False)
+
+    # First batch of 10 was saved before the quota error
+    assert len(_cache(cache_path)) == 1 + 10
